@@ -1,0 +1,12217 @@
+[
+  [
+    {
+      "Code": "BIO F110",
+      "Title": "BIOLOGY LABORATORY",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "2",
+          "3"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        "04/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F110",
+      "Title": "BIOLOGY LABORATORY",
+      "LorT": "P",
+      "Section": "2",
+      "Times": [
+        [
+          "M",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F110",
+      "Title": "BIOLOGY LABORATORY",
+      "LorT": "P",
+      "Section": "3",
+      "Times": [
+        [
+          "M",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F110",
+      "Title": "BIOLOGY LABORATORY",
+      "LorT": "P",
+      "Section": "4",
+      "Times": [
+        [
+          "T",
+          "2",
+          "3"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F110",
+      "Title": "BIOLOGY LABORATORY",
+      "LorT": "P",
+      "Section": "5",
+      "Times": [
+        [
+          "T",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F110",
+      "Title": "BIOLOGY LABORATORY",
+      "LorT": "P",
+      "Section": "6",
+      "Times": [
+        [
+          "T",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F110",
+      "Title": "BIOLOGY LABORATORY",
+      "LorT": "P",
+      "Section": "7",
+      "Times": [
+        [
+          "W",
+          "2",
+          "3"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F110",
+      "Title": "BIOLOGY LABORATORY",
+      "LorT": "P",
+      "Section": "8",
+      "Times": [
+        [
+          "W",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F110",
+      "Title": "BIOLOGY LABORATORY",
+      "LorT": "P",
+      "Section": "9",
+      "Times": [
+        [
+          "W",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F110",
+      "Title": "BIOLOGY LABORATORY",
+      "LorT": "P",
+      "Section": "10",
+      "Times": [
+        [
+          "T",
+          "2",
+          "3"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F110",
+      "Title": "BIOLOGY LABORATORY",
+      "LorT": "P",
+      "Section": "11",
+      "Times": [
+        [
+          "T",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F110",
+      "Title": "BIOLOGY LABORATORY",
+      "LorT": "P",
+      "Section": "12",
+      "Times": [
+        [
+          "T",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F110",
+      "Title": "BIOLOGY LABORATORY",
+      "LorT": "P",
+      "Section": "13",
+      "Times": [
+        [
+          "T",
+          "9",
+          "1"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F110",
+      "Title": "BIOLOGY LABORATORY",
+      "LorT": "P",
+      "Section": "14",
+      "Times": [
+        [
+          "F",
+          "2",
+          "3"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F110",
+      "Title": "BIOLOGY LABORATORY",
+      "LorT": "P",
+      "Section": "15",
+      "Times": [
+        [
+          "F",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F215",
+      "Title": "BIOPHYSICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "3"
+        ],
+        [
+          "W",
+          "3"
+        ],
+        [
+          "T",
+          "8"
+        ]
+      ],
+      "Room": "C302",
+      "Midsem": [
+        "17/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F215",
+      "Title": "BIOPHYSICS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "S",
+          "1"
+        ]
+      ],
+      "Room": "C301",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F217",
+      "Title": "LABORATORY FOR WATER SANITATION AND SOLID WASTE MANAGEMENT",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ]
+      ],
+      "Room": "C307",
+      "Midsem": [
+        "18/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F217",
+      "Title": "LABORATORY FOR WATER SANITATION AND SOLID WASTE MANAGEMENT",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F241",
+      "Title": "ECOLOGY & ENVIRON SCI",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "2"
+        ],
+        [
+          "W",
+          "2"
+        ],
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "C302",
+      "Midsem": [
+        "10/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F241",
+      "Title": "ECOLOGY & ENVIRON SCI",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "S",
+          "1"
+        ]
+      ],
+      "Room": "C302",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F242",
+      "Title": "INTRO TO BIOINFORMATICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4"
+        ],
+        [
+          "W",
+          "4"
+        ],
+        [
+          "T",
+          "7"
+        ]
+      ],
+      "Room": "C302",
+      "Midsem": [
+        "15/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F242",
+      "Title": "INTRO TO BIOINFORMATICS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ]
+      ],
+      "Room": "C302",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F243",
+      "Title": "GENETICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "5"
+        ],
+        [
+          "T",
+          "5"
+        ],
+        [
+          "F",
+          "5"
+        ]
+      ],
+      "Room": "C306",
+      "Midsem": [
+        "06/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F243",
+      "Title": "GENETICS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "C302",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F244",
+      "Title": "INSTRU METHODS OF ANAL",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "C302",
+      "Midsem": [
+        "20/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F244",
+      "Title": "INSTRU METHODS OF ANAL",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "7",
+          "8",
+          "9"
+        ],
+        [
+          "S",
+          "2",
+          "3",
+          "4"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F266",
+      "Title": "STUDY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F341",
+      "Title": "DEVELOPMENTAL BIOLOGY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "2"
+        ],
+        [
+          "T",
+          "2"
+        ],
+        [
+          "F",
+          "2"
+        ]
+      ],
+      "Room": "C306",
+      "Midsem": [
+        "09/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F341",
+      "Title": "DEVELOPMENTAL BIOLOGY",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ]
+      ],
+      "Room": "C306",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F342",
+      "Title": "IMMUNOLOGY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "3"
+        ],
+        [
+          "T",
+          "3"
+        ],
+        [
+          "F",
+          "3"
+        ]
+      ],
+      "Room": "C302",
+      "Midsem": [
+        "13/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F342",
+      "Title": "IMMUNOLOGY",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "C302",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F366",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F367",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F376",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F377",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F413",
+      "Title": "MOLECULAR BIOLOGY OF CELL",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "C303",
+      "Midsem": [
+        "08/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F419",
+      "Title": "MOLECULAR EVOLUTION",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "C304",
+      "Midsem": [
+        "08/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F421",
+      "Title": "ENZYMOLOGY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "5"
+        ],
+        [
+          "W",
+          "5"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "C303",
+      "Midsem": [
+        "07/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F431",
+      "Title": "REPRODUCTIVE PHYSIOLOGY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "C303",
+      "Midsem": [
+        "11/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F441",
+      "Title": "BIOCHEMICAL ENGINEERING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "W",
+          "1"
+        ],
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "C303",
+      "Midsem": [
+        "18/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO F491",
+      "Title": "SPECIAL PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO G524",
+      "Title": "ANIMAL CELL TECHNOLOGY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "9"
+        ],
+        [
+          "W",
+          "9"
+        ],
+        [
+          "F",
+          "9"
+        ]
+      ],
+      "Room": "C303",
+      "Midsem": [
+        "16/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO G532",
+      "Title": "BIOSTATISTICS AND BIOMODELLING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "3"
+        ],
+        [
+          "T",
+          "3"
+        ],
+        [
+          "F",
+          "3"
+        ]
+      ],
+      "Room": "C303",
+      "Midsem": [
+        "13/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO G642",
+      "Title": "EXPERIMENTAL TECHNIQUES",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "2",
+          "3",
+          "4"
+        ],
+        [
+          "W",
+          "2",
+          "3",
+          "4"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        "TBA"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO G643",
+      "Title": "PLANT BIOTECHNOLOGY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "C304",
+      "Midsem": [
+        "11/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO G643",
+      "Title": "PLANT BIOTECHNOLOGY",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIO G651",
+      "Title": "PROTEIN AND ENZYME BIOENGINEERING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "8"
+        ],
+        [
+          "W",
+          "8"
+        ],
+        [
+          "F",
+          "8"
+        ]
+      ],
+      "Room": "C303",
+      "Midsem": [
+        "14/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIOT F345",
+      "Title": "PROTEOMICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "C302",
+      "Midsem": [
+        "11/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIOT F422",
+      "Title": "NANOBIOTECHNOLOGY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "5"
+        ],
+        [
+          "W",
+          "5"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "C304",
+      "Midsem": [
+        "07/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BIOT F424",
+      "Title": "FOOD BIOTECHNOLOGY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "W",
+          "1"
+        ],
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "C304",
+      "Midsem": [
+        "18/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS C790T",
+      "Title": "INDEPENDENT STUDY",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS C791T",
+      "Title": "TEACHING PRACTICE I",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS C797T",
+      "Title": "PH D SEMINAR",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS C799T",
+      "Title": "PH D THESIS",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS E573",
+      "Title": "STUDY IN ADVANCED TOPICS I",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS E574",
+      "Title": "STUDY IN ADV TOPICS II",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS E583",
+      "Title": "CASE STUDIES I",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS E661",
+      "Title": "RESEARCH METHODOLGY I",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS E793T",
+      "Title": "PRACTICE LECT SERIES I",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F110",
+      "Title": "ENGINEERING GRAPHICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "7"
+        ]
+      ],
+      "Room": "LT3",
+      "Midsem": [
+        "20/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F110",
+      "Title": "ENGINEERING GRAPHICS",
+      "LorT": "L",
+      "Section": "2",
+      "Times": [
+        [
+          "T",
+          "7"
+        ]
+      ],
+      "Room": "LT4",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F110",
+      "Title": "ENGINEERING GRAPHICS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "W",
+          "7"
+        ]
+      ],
+      "Room": "LT3",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F110",
+      "Title": "ENGINEERING GRAPHICS",
+      "LorT": "T",
+      "Section": "2",
+      "Times": [
+        [
+          "W",
+          "7"
+        ]
+      ],
+      "Room": "LT4",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F110",
+      "Title": "ENGINEERING GRAPHICS",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F110",
+      "Title": "ENGINEERING GRAPHICS",
+      "LorT": "P",
+      "Section": "2",
+      "Times": [
+        [
+          "T",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F110",
+      "Title": "ENGINEERING GRAPHICS",
+      "LorT": "P",
+      "Section": "3",
+      "Times": [
+        [
+          "T",
+          "9",
+          "1"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F110",
+      "Title": "ENGINEERING GRAPHICS",
+      "LorT": "P",
+      "Section": "4",
+      "Times": [
+        [
+          "F",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F111",
+      "Title": "THERMODYNAMICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4"
+        ],
+        [
+          "W",
+          "4"
+        ]
+      ],
+      "Room": "LT4",
+      "Midsem": [
+        "09/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F111",
+      "Title": "THERMODYNAMICS",
+      "LorT": "L",
+      "Section": "2",
+      "Times": [
+        [
+          "M",
+          "9"
+        ],
+        [
+          "W",
+          "9"
+        ]
+      ],
+      "Room": "LT3",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F111",
+      "Title": "THERMODYNAMICS",
+      "LorT": "L",
+      "Section": "3",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ]
+      ],
+      "Room": "LT3",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F111",
+      "Title": "THERMODYNAMICS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "LT4",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F111",
+      "Title": "THERMODYNAMICS",
+      "LorT": "T",
+      "Section": "2",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "DLT8",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F111",
+      "Title": "THERMODYNAMICS",
+      "LorT": "T",
+      "Section": "3",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "A605",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F111",
+      "Title": "THERMODYNAMICS",
+      "LorT": "T",
+      "Section": "4",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "F",
+          "9"
+        ]
+      ],
+      "Room": "LT3",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F111",
+      "Title": "THERMODYNAMICS",
+      "LorT": "T",
+      "Section": "5",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "F",
+          "9"
+        ]
+      ],
+      "Room": "LT2",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F111",
+      "Title": "THERMODYNAMICS",
+      "LorT": "T",
+      "Section": "6",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F111",
+      "Title": "THERMODYNAMICS",
+      "LorT": "T",
+      "Section": "7",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "DLT5",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F111",
+      "Title": "THERMODYNAMICS",
+      "LorT": "T",
+      "Section": "8",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F314",
+      "Title": "GAME THEORY AND IT'S APPLICATIONS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "5"
+        ],
+        [
+          "W",
+          "5"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "A605",
+      "Midsem": [
+        "07/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F316",
+      "Title": "NONLINEAR DYNAMICS AND CHAOS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "5"
+        ],
+        [
+          "W",
+          "5"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "C405",
+      "Midsem": [
+        "07/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F317",
+      "Title": "THEORETICAL NEUROSCIENCE",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "W",
+          "1"
+        ],
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "C402",
+      "Midsem": [
+        "18/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F327",
+      "Title": "Artificial Intelligence for Robotics",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ]
+      ],
+      "Room": "TP",
+      "Midsem": [
+        "08/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F327",
+      "Title": "Artificial Intelligence for Robotics",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "8",
+          "9",
+          "1"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F382",
+      "Title": "READING COURSE",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        "04/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F385",
+      "Title": "INTRO TO GENDER STUDIES",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4"
+        ],
+        [
+          "W",
+          "4"
+        ],
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "A604",
+      "Midsem": [
+        "15/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F386",
+      "Title": "QUANTUM INFORMATION AND COMPUTATION",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "W",
+          "1"
+        ],
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "DLT5",
+      "Midsem": [
+        "18/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F416",
+      "Title": "INTRO TO NANO SCIENCE",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "A503",
+      "Midsem": [
+        "11/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F421T",
+      "Title": "THESIS",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F422T",
+      "Title": "THESIS",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F423T",
+      "Title": "THESIS",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F462",
+      "Title": "RENEWABLE ENERGY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "2"
+        ],
+        [
+          "W",
+          "2"
+        ],
+        [
+          "T",
+          "7"
+        ]
+      ],
+      "Room": "C301",
+      "Midsem": [
+        "10/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F463",
+      "Title": "CRYPTOGRAPHY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "W",
+          "1"
+        ],
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "A605",
+      "Midsem": [
+        "18/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS F464",
+      "Title": "MACHINE LEARNING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "5"
+        ],
+        [
+          "W",
+          "5"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "DLT5",
+      "Midsem": [
+        "07/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS G511",
+      "Title": "ADVANCED PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS G513",
+      "Title": "STUDY IN ADVANCED TOPICS",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS G529",
+      "Title": "RESEARCH PROJECT I",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS G539",
+      "Title": "RESEARCH PROJECT II",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS G540",
+      "Title": "RESEARCH PRACTICE",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS G553",
+      "Title": "REAL TIME SYSTEMS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "3"
+        ],
+        [
+          "W",
+          "3"
+        ],
+        [
+          "T",
+          "8"
+        ]
+      ],
+      "Room": "D103",
+      "Midsem": [
+        "17/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS G563T",
+      "Title": "DISSERTATION",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS G619",
+      "Title": "PROFESSIONAL PRACTICE",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS G629T",
+      "Title": "DISSERTATION",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS G649",
+      "Title": "READING COURSE",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS G654",
+      "Title": "ADV INSTRUMENTATION TECH",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "BITS G661",
+      "Title": "RESEARCH METHODOLOGY I",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F241",
+      "Title": "HEAT TRANSFER",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "8"
+        ],
+        [
+          "W",
+          "8"
+        ],
+        [
+          "F",
+          "8"
+        ]
+      ],
+      "Room": "A605",
+      "Midsem": [
+        "14/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F241",
+      "Title": "HEAT TRANSFER",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "W",
+          "1"
+        ]
+      ],
+      "Room": "A605",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F242",
+      "Title": "NUMERICAL METHODS FOR CHEMICAL ENGINEERS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "2"
+        ],
+        [
+          "W",
+          "2"
+        ],
+        [
+          "T",
+          "7"
+        ]
+      ],
+      "Room": "A605",
+      "Midsem": [
+        "10/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F242",
+      "Title": "NUMERICAL METHODS FOR CHEMICAL ENGINEERS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "A605",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F243",
+      "Title": "MATERIAL SCIENCE & ENGINEERING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "5"
+        ],
+        [
+          "T",
+          "5"
+        ],
+        [
+          "F",
+          "5"
+        ]
+      ],
+      "Room": "A605",
+      "Midsem": [
+        "06/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F243",
+      "Title": "MATERIAL SCIENCE & ENGINEERING",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "A605",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F244",
+      "Title": "SEPARATION PROCESSES I",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "9"
+        ],
+        [
+          "W",
+          "9"
+        ],
+        [
+          "F",
+          "9"
+        ]
+      ],
+      "Room": "A605",
+      "Midsem": [
+        "16/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F244",
+      "Title": "SEPARATION PROCESSES I",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "A605",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F266",
+      "Title": "STUDY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F341",
+      "Title": "CHEMICAL ENGG LAB II",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "7",
+          "8",
+          "9"
+        ],
+        [
+          "S",
+          "2",
+          "3",
+          "4"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        "TBA"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F342",
+      "Title": "PROCESS DYN & CONTROL",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "3"
+        ],
+        [
+          "W",
+          "3"
+        ],
+        [
+          "T",
+          "8"
+        ]
+      ],
+      "Room": "A601",
+      "Midsem": [
+        "17/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F342",
+      "Title": "PROCESS DYN & CONTROL",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "A601",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F343",
+      "Title": "PROCESS DES PRINCIPLE II",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4"
+        ],
+        [
+          "W",
+          "4"
+        ],
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "A601",
+      "Midsem": [
+        "15/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F343",
+      "Title": "PROCESS DES PRINCIPLE II",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ]
+      ],
+      "Room": "A601",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F366",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F367",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F376",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F377",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F411",
+      "Title": "ENVIR POLLUTION CONTROL",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "2"
+        ],
+        [
+          "W",
+          "2"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "A601",
+      "Midsem": [
+        "10/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F412",
+      "Title": "PROCESS EQUIPMENT DESIGN",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "3"
+        ],
+        [
+          "T",
+          "3"
+        ],
+        [
+          "F",
+          "3"
+        ]
+      ],
+      "Room": "A604",
+      "Midsem": [
+        "13/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F413",
+      "Title": "PROCESS PLANT SAFETY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "5"
+        ],
+        [
+          "W",
+          "5"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "A503",
+      "Midsem": [
+        "07/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F414",
+      "Title": "TRANSPORT PHENOMENA",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "5"
+        ],
+        [
+          "T",
+          "5"
+        ],
+        [
+          "F",
+          "5"
+        ]
+      ],
+      "Room": "A601",
+      "Midsem": [
+        "06/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F419",
+      "Title": "CHEMICAL PROCESS TECHNOLOGY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "9"
+        ],
+        [
+          "W",
+          "9"
+        ],
+        [
+          "F",
+          "9"
+        ]
+      ],
+      "Room": "A601",
+      "Midsem": [
+        "16/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE F491",
+      "Title": "SPECIAL PROJECTS",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE G522",
+      "Title": "POLYMER TECHNOLOGY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "A505",
+      "Midsem": [
+        "19/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE G552",
+      "Title": "ADVANCED TRANSPORT PHENOMEN",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "8"
+        ],
+        [
+          "W",
+          "8"
+        ],
+        [
+          "F",
+          "8"
+        ]
+      ],
+      "Room": "A505",
+      "Midsem": [
+        "14/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE G558",
+      "Title": "CHEMICAL PROCESS OPTIMIZATION",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "A506",
+      "Midsem": [
+        "08/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHE G641",
+      "Title": "REACTION ENGINEERING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "2"
+        ],
+        [
+          "T",
+          "2"
+        ],
+        [
+          "F",
+          "2"
+        ]
+      ],
+      "Room": "A506",
+      "Midsem": [
+        "09/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F110",
+      "Title": "CHEMISTRY LABORATORY",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        "19/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F110",
+      "Title": "CHEMISTRY LABORATORY",
+      "LorT": "P",
+      "Section": "2",
+      "Times": [
+        [
+          "T",
+          "2",
+          "3"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F110",
+      "Title": "CHEMISTRY LABORATORY",
+      "LorT": "P",
+      "Section": "3",
+      "Times": [
+        [
+          "T",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F110",
+      "Title": "CHEMISTRY LABORATORY",
+      "LorT": "P",
+      "Section": "4",
+      "Times": [
+        [
+          "W",
+          "2",
+          "3"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F110",
+      "Title": "CHEMISTRY LABORATORY",
+      "LorT": "P",
+      "Section": "5",
+      "Times": [
+        [
+          "W",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F110",
+      "Title": "CHEMISTRY LABORATORY",
+      "LorT": "P",
+      "Section": "6",
+      "Times": [
+        [
+          "T",
+          "2",
+          "3"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F110",
+      "Title": "CHEMISTRY LABORATORY",
+      "LorT": "P",
+      "Section": "7",
+      "Times": [
+        [
+          "T",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F110",
+      "Title": "CHEMISTRY LABORATORY",
+      "LorT": "P",
+      "Section": "8",
+      "Times": [
+        [
+          "T",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F110",
+      "Title": "CHEMISTRY LABORATORY",
+      "LorT": "P",
+      "Section": "9",
+      "Times": [
+        [
+          "T",
+          "9",
+          "1"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F110",
+      "Title": "CHEMISTRY LABORATORY",
+      "LorT": "P",
+      "Section": "10",
+      "Times": [
+        [
+          "F",
+          "2",
+          "3"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F110",
+      "Title": "CHEMISTRY LABORATORY",
+      "LorT": "P",
+      "Section": "11",
+      "Times": [
+        [
+          "F",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F223",
+      "Title": "COLLOID & SURFACE CHEM",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "W",
+          "1"
+        ],
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "C306",
+      "Midsem": [
+        "18/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F241",
+      "Title": "INORGANIC CHEMISTRY II",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "2"
+        ],
+        [
+          "W",
+          "2"
+        ],
+        [
+          "T",
+          "7"
+        ]
+      ],
+      "Room": "C306",
+      "Midsem": [
+        "10/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F241",
+      "Title": "INORGANIC CHEMISTRY II",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "C306",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F242",
+      "Title": "CHEMICAL EXPER I",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7",
+          "8",
+          "9"
+        ],
+        [
+          "W",
+          "7",
+          "8",
+          "9"
+        ],
+        [
+          "F",
+          "7",
+          "8",
+          "9"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        "TBA"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F243",
+      "Title": "ORGANIC CHEMISTRY II",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "C306",
+      "Midsem": [
+        "06/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F243",
+      "Title": "ORGANIC CHEMISTRY II",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "8"
+        ]
+      ],
+      "Room": "C306",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F244",
+      "Title": "PHYSICAL CHEMISTRY III",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "3"
+        ],
+        [
+          "T",
+          "3"
+        ],
+        [
+          "F",
+          "3"
+        ]
+      ],
+      "Room": "C405",
+      "Midsem": [
+        "13/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F244",
+      "Title": "PHYSICAL CHEMISTRY III",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "C405",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F266",
+      "Title": "STUDY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F323",
+      "Title": "BIOPHYSICAL CHEMISTRY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "W",
+          "1"
+        ],
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "C404",
+      "Midsem": [
+        "18/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F325",
+      "Title": "POLYMER CHEMISTRY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4"
+        ],
+        [
+          "W",
+          "4"
+        ],
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "C306",
+      "Midsem": [
+        "19/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F326",
+      "Title": "SOLID STATE CHEMISTRY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "5"
+        ],
+        [
+          "W",
+          "5"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "A603",
+      "Midsem": [
+        "07/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F327",
+      "Title": "ELECTROCHEMISTRY: FUNDAMENTALS AND APPLICATIONS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "5"
+        ],
+        [
+          "W",
+          "5"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "C306",
+      "Midsem": [
+        "07/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F328",
+      "Title": "SUPRAMOLECULAR CHEMISTRY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4"
+        ],
+        [
+          "W",
+          "4"
+        ],
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "A603",
+      "Midsem": [
+        "15/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F341",
+      "Title": "CHEMICAL EXPERIMENTATION II",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "7",
+          "8",
+          "9"
+        ],
+        [
+          "S",
+          "2",
+          "3",
+          "4"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        "TBA"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F342",
+      "Title": "ORGANIC CHEMISTRY IV",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "3"
+        ],
+        [
+          "W",
+          "3"
+        ],
+        [
+          "T",
+          "8"
+        ]
+      ],
+      "Room": "C306",
+      "Midsem": [
+        "17/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F342",
+      "Title": "ORGANIC CHEMISTRY IV",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "S",
+          "1"
+        ]
+      ],
+      "Room": "C306",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F343",
+      "Title": "INORGANIC CHEMISTRY III",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "2"
+        ],
+        [
+          "T",
+          "2"
+        ],
+        [
+          "F",
+          "2"
+        ]
+      ],
+      "Room": "A604",
+      "Midsem": [
+        "09/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F343",
+      "Title": "INORGANIC CHEMISTRY III",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ]
+      ],
+      "Room": "A604",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F366",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F367",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F376",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F377",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F414",
+      "Title": "BIO & CHEMICAL SENSORS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "W",
+          "1"
+        ],
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "C308",
+      "Midsem": [
+        "18/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM F491",
+      "Title": "SPECIAL PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CHEM G521",
+      "Title": "ENVIRONMENTAL CHEMISTRY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "C306",
+      "Midsem": [
+        "08/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F111",
+      "Title": "COMPUTER PROGRAMMING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "3"
+        ],
+        [
+          "W",
+          "3"
+        ],
+        [
+          "T",
+          "8"
+        ]
+      ],
+      "Room": "LT4",
+      "Midsem": [
+        "07/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F111",
+      "Title": "COMPUTER PROGRAMMING",
+      "LorT": "L",
+      "Section": "2",
+      "Times": [
+        [
+          "M",
+          "8"
+        ],
+        [
+          "W",
+          "8"
+        ],
+        [
+          "F",
+          "8"
+        ]
+      ],
+      "Room": "LT4",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F111",
+      "Title": "COMPUTER PROGRAMMING",
+      "LorT": "L",
+      "Section": "3",
+      "Times": [
+        [
+          "T",
+          "3"
+        ],
+        [
+          "T",
+          "3"
+        ],
+        [
+          "F",
+          "3"
+        ]
+      ],
+      "Room": "LT4",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F111",
+      "Title": "COMPUTER PROGRAMMING",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F111",
+      "Title": "COMPUTER PROGRAMMING",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "9",
+          "1"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F111",
+      "Title": "COMPUTER PROGRAMMING",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1",
+          "1",
+          "1",
+          "2"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F211",
+      "Title": "DATA STRUCTURES & ALGORITHMS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4"
+        ],
+        [
+          "W",
+          "4"
+        ],
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "LT2",
+      "Midsem": [
+        "15/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F211",
+      "Title": "DATA STRUCTURES & ALGORITHMS",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "F",
+          "9",
+          "1"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F212",
+      "Title": "DATABASE SYSTEMS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "2"
+        ],
+        [
+          "W",
+          "2"
+        ],
+        [
+          "T",
+          "7"
+        ]
+      ],
+      "Room": "LT3",
+      "Midsem": [
+        "10/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F212",
+      "Title": "DATABASE SYSTEMS",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "W",
+          "8",
+          "9"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F213",
+      "Title": "OBJECT ORIENTED PROG",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1",
+          "2"
+        ],
+        [
+          "W",
+          "1",
+          "2"
+        ]
+      ],
+      "Room": "DLT8",
+      "Midsem": [
+        "07/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F213",
+      "Title": "OBJECT ORIENTED PROG",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1",
+          "1",
+          "1",
+          "2"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F241",
+      "Title": "MICROPROCESSORS & INTERFACING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "5"
+        ],
+        [
+          "T",
+          "5"
+        ],
+        [
+          "F",
+          "5"
+        ]
+      ],
+      "Room": "LT3",
+      "Midsem": [
+        "06/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F241",
+      "Title": "MICROPROCESSORS & INTERFACING",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "LT3",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F241",
+      "Title": "MICROPROCESSORS & INTERFACING",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "9",
+          "1"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F266",
+      "Title": "STUDY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F303",
+      "Title": "COMPUTER NETWORKS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "3"
+        ],
+        [
+          "T",
+          "3"
+        ],
+        [
+          "S",
+          "1"
+        ]
+      ],
+      "Room": "LT2",
+      "Midsem": [
+        "13/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F303",
+      "Title": "COMPUTER NETWORKS",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "F",
+          "2",
+          "3"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F316",
+      "Title": "QUANTUM ARCH & PROGRAMMING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "9"
+        ],
+        [
+          "W",
+          "9"
+        ],
+        [
+          "F",
+          "9"
+        ]
+      ],
+      "Room": "TP",
+      "Midsem": [
+        "12/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F317",
+      "Title": "REINFORCEMENT LEARNING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "DLT5",
+      "Midsem": [
+        "08/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F320",
+      "Title": "FOUNDATIONS OF DATA SCIENCE",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "LT2",
+      "Midsem": [
+        "11/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F342",
+      "Title": "COMPUTER ARCHITECTURE",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "8"
+        ],
+        [
+          "W",
+          "8"
+        ],
+        [
+          "F",
+          "8"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        "14/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F342",
+      "Title": "COMPUTER ARCHITECTURE",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1",
+          "1",
+          "1",
+          "2"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F363",
+      "Title": "COMPILER CONSTRUCTION",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "2"
+        ],
+        [
+          "T",
+          "7"
+        ]
+      ],
+      "Room": "LT2",
+      "Midsem": [
+        "16/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F363",
+      "Title": "COMPILER CONSTRUCTION",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "W",
+          "1",
+          "2"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F364",
+      "Title": "DESIGN & ANAL OF ALGO",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "2"
+        ],
+        [
+          "T",
+          "2"
+        ],
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "LT2",
+      "Midsem": [
+        "09/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F366",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F367",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F372",
+      "Title": "OPERATING SYSTEMS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "DLT8",
+      "Midsem": [
+        "11/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F372",
+      "Title": "OPERATING SYSTEMS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1",
+          "1"
+        ]
+      ],
+      "Room": "DLT8",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F376",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F377",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F402",
+      "Title": "COMPUTATIONAL GEOMETRY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "9"
+        ],
+        [
+          "W",
+          "9"
+        ],
+        [
+          "F",
+          "9"
+        ]
+      ],
+      "Room": "DLT6",
+      "Midsem": [
+        "20/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F425",
+      "Title": "DEEP LEARNING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "8"
+        ],
+        [
+          "W",
+          "8"
+        ],
+        [
+          "F",
+          "8"
+        ]
+      ],
+      "Room": "DLT5",
+      "Midsem": [
+        "14/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F430",
+      "Title": "APPROXIMATION ALGORITHMS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4"
+        ],
+        [
+          "W",
+          "4"
+        ],
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        "15/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F431",
+      "Title": "COMBINATORIAL OPTIMIZATION",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "3"
+        ],
+        [
+          "W",
+          "3"
+        ],
+        [
+          "T",
+          "8"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        "17/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F432",
+      "Title": "BRAIN-INSPIRED DEEP LEARNING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "T",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "A602",
+      "Midsem": [
+        "19/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F433",
+      "Title": "COMPUTATIONAL NEUROSCIENCE",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1"
+        ],
+        [
+          "T",
+          "9",
+          "1"
+        ]
+      ],
+      "Room": "DLT6",
+      "Midsem": [
+        "12/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS F491",
+      "Title": "SPECIAL PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS G513",
+      "Title": "NETWORK SECURITY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "8"
+        ],
+        [
+          "W",
+          "8"
+        ],
+        [
+          "F",
+          "8"
+        ]
+      ],
+      "Room": "C402",
+      "Midsem": [
+        "14/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS G523",
+      "Title": "SOFT FOR EMBED SYS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "3"
+        ],
+        [
+          "W",
+          "3"
+        ],
+        [
+          "T",
+          "8"
+        ]
+      ],
+      "Room": "D102",
+      "Midsem": [
+        "17/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS G523",
+      "Title": "SOFT FOR EMBED SYS",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS G524",
+      "Title": "ADVANCED COMPUTER ARCHITECTURE",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "3"
+        ],
+        [
+          "T",
+          "3"
+        ],
+        [
+          "F",
+          "3"
+        ]
+      ],
+      "Room": "DLT8",
+      "Midsem": [
+        "13/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "CS G557",
+      "Title": "DISTRIBUTED COMPUTING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1",
+          "2",
+          "1",
+          "1",
+          "5"
+        ],
+        [
+          "T",
+          "1",
+          "2",
+          "1",
+          "1",
+          "5"
+        ]
+      ],
+      "Room": "D104",
+      "Midsem": [
+        "06/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "DE G514",
+      "Title": "FRACTURE MECHANICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "9"
+        ],
+        [
+          "W",
+          "9"
+        ],
+        [
+          "F",
+          "9"
+        ]
+      ],
+      "Room": "A506",
+      "Midsem": [
+        "16/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F241",
+      "Title": "MICROPROCESSORS & INTERFACING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "2"
+        ],
+        [
+          "W",
+          "2"
+        ],
+        [
+          "T",
+          "7"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        "10/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F241",
+      "Title": "MICROPROCESSORS & INTERFACING",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F241",
+      "Title": "MICROPROCESSORS & INTERFACING",
+      "LorT": "T",
+      "Section": "2",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "LT2",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F241",
+      "Title": "MICROPROCESSORS & INTERFACING",
+      "LorT": "T",
+      "Section": "3",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F241",
+      "Title": "MICROPROCESSORS & INTERFACING",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F241",
+      "Title": "MICROPROCESSORS &",
+      "LorT": "P",
+      "Section": "2",
+      "Times": [
+        [
+          "M",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F241",
+      "Title": "MICROPROCESSORS & INTERFACING",
+      "LorT": "P",
+      "Section": "3",
+      "Times": [
+        [
+          "S",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F241",
+      "Title": "MICROPROCESSORS & INTERFACING",
+      "LorT": "P",
+      "Section": "4",
+      "Times": [
+        [
+          "S",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F242",
+      "Title": "CONTROL SYSTEMS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "8"
+        ],
+        [
+          "W",
+          "8"
+        ],
+        [
+          "F",
+          "8"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        "14/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F242",
+      "Title": "CONTROL SYSTEMS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "W",
+          "1"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F242",
+      "Title": "CONTROL SYSTEMS",
+      "LorT": "T",
+      "Section": "2",
+      "Times": [
+        [
+          "W",
+          "1"
+        ]
+      ],
+      "Room": "LT2",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F243",
+      "Title": "SIGNALS & SYSTEMS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "9"
+        ],
+        [
+          "W",
+          "9"
+        ],
+        [
+          "F",
+          "9"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        "16/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F243",
+      "Title": "SIGNALS & SYSTEMS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F244",
+      "Title": "MICROELECTRONIC CIRCUITS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "5"
+        ],
+        [
+          "T",
+          "5"
+        ],
+        [
+          "F",
+          "5"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        "06/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F244",
+      "Title": "MICROELECTRONIC CIRCUITS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F266",
+      "Title": "STUDY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "5"
+        ],
+        [
+          "T",
+          "5"
+        ],
+        [
+          "F",
+          "5"
+        ]
+      ],
+      "Room": "LT2",
+      "Midsem": [
+        "06/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "T",
+      "Section": "2",
+      "Times": [
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "LT4",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "P",
+      "Section": "2",
+      "Times": [
+        [
+          "T",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "P",
+      "Section": "3",
+      "Times": [
+        [
+          "S",
+          "2",
+          "3"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "P",
+      "Section": "4",
+      "Times": [
+        [
+          "S",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F343",
+      "Title": "COMMUNICATION NETWORKS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4"
+        ],
+        [
+          "W",
+          "4"
+        ],
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "DLT5",
+      "Midsem": [
+        "15/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F344",
+      "Title": "INFORMATION THEORY & CODING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "2"
+        ],
+        [
+          "T",
+          "2"
+        ],
+        [
+          "F",
+          "2"
+        ]
+      ],
+      "Room": "DLT5",
+      "Midsem": [
+        "09/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F366",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F367",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F376",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F377",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F431",
+      "Title": "MOBILE TELECOMMUNICATION NETWORKS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "5"
+        ],
+        [
+          "W",
+          "5"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "DLT6",
+      "Midsem": [
+        "07/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECE F491",
+      "Title": "SPECIAL PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F211",
+      "Title": "PRINCIPLES OF ECONOMICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "2"
+        ],
+        [
+          "T",
+          "2"
+        ],
+        [
+          "F",
+          "2"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        "09/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F211",
+      "Title": "PRINCIPLES OF ECONOMICS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F212",
+      "Title": "FUNDA OF FIN AND ACCOUNT",
+      "LorT": "I",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F212",
+      "Title": "FUNDA OF FIN AND ACCOUNT",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "LT4",
+      "Midsem": [
+        "11/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F241",
+      "Title": "ECONOMETRIC METHODS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "5"
+        ],
+        [
+          "T",
+          "5"
+        ],
+        [
+          "F",
+          "5"
+        ]
+      ],
+      "Room": "C307",
+      "Midsem": [
+        "06/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F241",
+      "Title": "ECONOMETRIC METHODS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "C307",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F242",
+      "Title": "MICROECONOMICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4"
+        ],
+        [
+          "W",
+          "4"
+        ],
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "C307",
+      "Midsem": [
+        "15/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F242",
+      "Title": "MICROECONOMICS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "S",
+          "4"
+        ]
+      ],
+      "Room": "C307",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F243",
+      "Title": "MACROECONOMICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "C307",
+      "Midsem": [
+        "12/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F243",
+      "Title": "MACROECONOMICS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "S",
+          "5"
+        ]
+      ],
+      "Room": "C307",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F244",
+      "Title": "ECONOMIC OF GROWTH & DEV",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "2"
+        ],
+        [
+          "W",
+          "2"
+        ],
+        [
+          "T",
+          "7"
+        ]
+      ],
+      "Room": "C307",
+      "Midsem": [
+        "10/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F244",
+      "Title": "ECONOMIC OF GROWTH & DEV",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "7"
+        ]
+      ],
+      "Room": "C307",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F266",
+      "Title": "STUDY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F315",
+      "Title": "FINANCIAL MANAGEMENT",
+      "LorT": "I",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F315",
+      "Title": "FINANCIAL MANAGEMENT",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "DLT8",
+      "Midsem": [
+        "08/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F341",
+      "Title": "PUBLIC FINANCE THEORY & POLICY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "3"
+        ],
+        [
+          "T",
+          "3"
+        ],
+        [
+          "F",
+          "3"
+        ]
+      ],
+      "Room": "C307",
+      "Midsem": [
+        "13/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F341",
+      "Title": "PUBLIC FINANCE THEORY & POLICY",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "S",
+          "1"
+        ]
+      ],
+      "Room": "C307",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F342",
+      "Title": "APPLIED ECONOMETRICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "3"
+        ],
+        [
+          "W",
+          "3"
+        ],
+        [
+          "T",
+          "8"
+        ]
+      ],
+      "Room": "C307",
+      "Midsem": [
+        "09/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F342",
+      "Title": "APPLIED ECONOMETRICS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "C307",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F343",
+      "Title": "ECONOMIC ANAL OF PUB POL",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "2"
+        ],
+        [
+          "T",
+          "2"
+        ],
+        [
+          "F",
+          "2"
+        ]
+      ],
+      "Room": "C307",
+      "Midsem": [
+        "17/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F343",
+      "Title": "ECONOMIC ANAL OF PUB POL",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ]
+      ],
+      "Room": "C307",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F351",
+      "Title": "INDIAN ECONOMIC DEVELOPMENT",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "C307",
+      "Midsem": [
+        "08/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F354",
+      "Title": "DERIVATIVES & RISK MANAGEMENT",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1",
+          "2"
+        ],
+        [
+          "W",
+          "1",
+          "2"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        "07/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F354",
+      "Title": "DERIVATIVES & RISK MANAGEMENT",
+      "LorT": "I",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F355",
+      "Title": "BUSINESS ANALYSIS & VALUATION",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "W",
+          "1"
+        ],
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "DLT6",
+      "Midsem": [
+        "18/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F355",
+      "Title": "BUSINESS ANALYSIS & VALUATION",
+      "LorT": "I",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F366",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F367",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F376",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F377",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F412",
+      "Title": "SECURITY ANALYSIS AND PORTFOLIO MANAGEMENT",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "8"
+        ],
+        [
+          "W",
+          "8"
+        ],
+        [
+          "F",
+          "8"
+        ]
+      ],
+      "Room": "DLT6",
+      "Midsem": [
+        "14/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F412",
+      "Title": "SECURITY ANALYSIS AND PORTFOLIO MANAGEMENT",
+      "LorT": "I",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ECON F491",
+      "Title": "SPECIAL PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F111",
+      "Title": "ELECTRICAL SCIENCES",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "3"
+        ],
+        [
+          "W",
+          "3"
+        ],
+        [
+          "T",
+          "8"
+        ]
+      ],
+      "Room": "LT3",
+      "Midsem": [
+        "13/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F111",
+      "Title": "ELECTRICAL SCIENCES",
+      "LorT": "L",
+      "Section": "2",
+      "Times": [
+        [
+          "M",
+          "5"
+        ],
+        [
+          "W",
+          "5"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "LT4",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F111",
+      "Title": "ELECTRICAL SCIENCES",
+      "LorT": "L",
+      "Section": "3",
+      "Times": [
+        [
+          "M",
+          "8"
+        ],
+        [
+          "W",
+          "8"
+        ],
+        [
+          "F",
+          "8"
+        ]
+      ],
+      "Room": "LT2",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F111",
+      "Title": "ELECTRICAL SCIENCES",
+      "LorT": "L",
+      "Section": "4",
+      "Times": [
+        [
+          "T",
+          "5"
+        ],
+        [
+          "T",
+          "5"
+        ],
+        [
+          "F",
+          "5"
+        ]
+      ],
+      "Room": "LT4",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F111",
+      "Title": "ELECTRICAL SCIENCES",
+      "LorT": "L",
+      "Section": "5",
+      "Times": [
+        [
+          "T",
+          "5"
+        ],
+        [
+          "T",
+          "5"
+        ],
+        [
+          "F",
+          "5"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F111",
+      "Title": "ELECTRICAL SCIENCES",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "W",
+          "1"
+        ]
+      ],
+      "Room": "LT3",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F111",
+      "Title": "ELECTRICAL SCIENCES",
+      "LorT": "T",
+      "Section": "2",
+      "Times": [
+        [
+          "W",
+          "1"
+        ]
+      ],
+      "Room": "LT4",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F111",
+      "Title": "ELECTRICAL SCIENCES",
+      "LorT": "T",
+      "Section": "3",
+      "Times": [
+        [
+          "W",
+          "1"
+        ]
+      ],
+      "Room": "LT2",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F111",
+      "Title": "ELECTRICAL SCIENCES",
+      "LorT": "T",
+      "Section": "4",
+      "Times": [
+        [
+          "W",
+          "1"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F111",
+      "Title": "ELECTRICAL SCIENCES",
+      "LorT": "T",
+      "Section": "5",
+      "Times": [
+        [
+          "W",
+          "1"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F241",
+      "Title": "MICROPROCESSORS & INTERFACING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "2"
+        ],
+        [
+          "W",
+          "2"
+        ],
+        [
+          "T",
+          "7"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        "10/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F241",
+      "Title": "MICROPROCESSORS & INTERFACING",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F241",
+      "Title": "MICROPROCESSORS &",
+      "LorT": "T",
+      "Section": "2",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "LT2",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F241",
+      "Title": "MICROPROCESSORS & INTERFACING",
+      "LorT": "T",
+      "Section": "3",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F241",
+      "Title": "MICROPROCESSORS & INTERFACING",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F241",
+      "Title": "MICROPROCESSORS & INTERFACING",
+      "LorT": "P",
+      "Section": "2",
+      "Times": [
+        [
+          "M",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F241",
+      "Title": "MICROPROCESSORS & INTERFACING",
+      "LorT": "P",
+      "Section": "3",
+      "Times": [
+        [
+          "S",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F241",
+      "Title": "MICROPROCESSORS & INTERFACING",
+      "LorT": "P",
+      "Section": "4",
+      "Times": [
+        [
+          "S",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F242",
+      "Title": "CONTROL SYSTEMS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "8"
+        ],
+        [
+          "W",
+          "8"
+        ],
+        [
+          "F",
+          "8"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        "14/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F242",
+      "Title": "CONTROL SYSTEMS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "W",
+          "1"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F242",
+      "Title": "CONTROL SYSTEMS",
+      "LorT": "T",
+      "Section": "2",
+      "Times": [
+        [
+          "W",
+          "1"
+        ]
+      ],
+      "Room": "LT2",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F243",
+      "Title": "SIGNALS & SYSTEMS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "9"
+        ],
+        [
+          "W",
+          "9"
+        ],
+        [
+          "F",
+          "9"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        "16/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F243",
+      "Title": "SIGNALS & SYSTEMS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F244",
+      "Title": "MICROELECTRONIC CIRCUITS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "5"
+        ],
+        [
+          "T",
+          "5"
+        ],
+        [
+          "F",
+          "5"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        "06/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F244",
+      "Title": "MICROELECTRONIC CIRCUITS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F266",
+      "Title": "STUDY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F312",
+      "Title": "POWER SYSTEMS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "3"
+        ],
+        [
+          "W",
+          "3"
+        ],
+        [
+          "T",
+          "8"
+        ]
+      ],
+      "Room": "DLT5",
+      "Midsem": [
+        "17/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F312",
+      "Title": "POWER SYSTEMS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ]
+      ],
+      "Room": "C401",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "5"
+        ],
+        [
+          "T",
+          "5"
+        ],
+        [
+          "F",
+          "5"
+        ]
+      ],
+      "Room": "LT2",
+      "Midsem": [
+        "06/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "T",
+      "Section": "2",
+      "Times": [
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "LT4",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "P",
+      "Section": "2",
+      "Times": [
+        [
+          "T",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "P",
+      "Section": "3",
+      "Times": [
+        [
+          "S",
+          "2",
+          "3"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "P",
+      "Section": "4",
+      "Times": [
+        [
+          "S",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F342",
+      "Title": "POWER ELECTRONICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "3"
+        ],
+        [
+          "T",
+          "3"
+        ],
+        [
+          "F",
+          "3"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        "13/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F342",
+      "Title": "POWER ELECTRONICS",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F342",
+      "Title": "POWER ELECTRONICS",
+      "LorT": "P",
+      "Section": "2",
+      "Times": [
+        [
+          "T",
+          "9",
+          "1"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F342",
+      "Title": "POWER ELECTRONICS",
+      "LorT": "P",
+      "Section": "3",
+      "Times": [
+        [
+          "F",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F366",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F367",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F376",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F377",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F420",
+      "Title": "BIOMEDICAL SIGNAL PROCESSING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "W",
+          "1"
+        ],
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "DLT8",
+      "Midsem": [
+        "18/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F431",
+      "Title": "MOBILE TELECOMMUNICATION NETWORKS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "5"
+        ],
+        [
+          "W",
+          "5"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "DLT6",
+      "Midsem": [
+        "07/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F435",
+      "Title": "DIGITAL IMAGE PROCESSING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "2"
+        ],
+        [
+          "W",
+          "2"
+        ],
+        [
+          "T",
+          "7"
+        ]
+      ],
+      "Room": "DLT5",
+      "Midsem": [
+        "10/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE F474",
+      "Title": "ANTENNA THEORY AND DESIGN",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "DLT6",
+      "Midsem": [
+        "11/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE G592",
+      "Title": "MOBILE AND PERSONAL COMMUNICATION",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "2"
+        ],
+        [
+          "T",
+          "2"
+        ],
+        [
+          "F",
+          "2"
+        ]
+      ],
+      "Room": "D102",
+      "Midsem": [
+        "09/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE G622",
+      "Title": "ADVANCED DIGITAL COMMUNICATION",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "3"
+        ],
+        [
+          "T",
+          "3"
+        ],
+        [
+          "F",
+          "3"
+        ]
+      ],
+      "Room": "D102",
+      "Midsem": [
+        "13/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "EEE G627",
+      "Title": "NETWORK EMBEDDED APPLICATION",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "5"
+        ],
+        [
+          "T",
+          "5"
+        ],
+        [
+          "F",
+          "5"
+        ]
+      ],
+      "Room": "D102",
+      "Midsem": [
+        "06/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "FIN F311",
+      "Title": "DERIVATIVES & RISK MANAGEMENT",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1",
+          "2"
+        ],
+        [
+          "W",
+          "1",
+          "2"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        "07/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "FIN F311",
+      "Title": "DERIVATIVES & RISK MANAGEMENT",
+      "LorT": "I",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "FIN F312",
+      "Title": "FUNDAMENTALS OF TAXATION AND AUDIT",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "S",
+          "8",
+          "9",
+          "1"
+        ]
+      ],
+      "Room": "DLT8",
+      "Midsem": [
+        "04/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "FIN F312",
+      "Title": "FUNDAMENTALS OF TAXATION AND AUDIT",
+      "LorT": "I",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "FIN F313",
+      "Title": "SECURITY ANALYSIS AND PORTFOLIO MANAGEMENT",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "8"
+        ],
+        [
+          "W",
+          "8"
+        ],
+        [
+          "F",
+          "8"
+        ]
+      ],
+      "Room": "DLT6",
+      "Midsem": [
+        "14/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "FIN F313",
+      "Title": "SECURITY ANALYSIS AND PORTFOLIO MANAGEMENT",
+      "LorT": "I",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "FIN F315",
+      "Title": "FINANCIAL MANAGEMENT",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "DLT8",
+      "Midsem": [
+        "08/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "FIN F315",
+      "Title": "FINANCIAL MANAGEMENT",
+      "LorT": "I",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "GS F211",
+      "Title": "MOD POLITICAL CONCEPTS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "3"
+        ],
+        [
+          "W",
+          "3"
+        ],
+        [
+          "T",
+          "8"
+        ]
+      ],
+      "Room": "A605",
+      "Midsem": [
+        "17/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "GS F212",
+      "Title": "ENVIRON DEV & CLIMATE CH",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "C405",
+      "Midsem": [
+        "08/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "GS F231",
+      "Title": "DYN OF SOCIAL CHANGE",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "3"
+        ],
+        [
+          "T",
+          "3"
+        ],
+        [
+          "F",
+          "3"
+        ]
+      ],
+      "Room": "A602",
+      "Midsem": [
+        "13/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "GS F232",
+      "Title": "INTRODUCTORY PSYCHOLOGY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "A502",
+      "Midsem": [
+        "11/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "GS F234",
+      "Title": "DEVELOPMENT ECONOMICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "C402",
+      "Midsem": [
+        "11/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "GS F241",
+      "Title": "CREATIVE WRITING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "5"
+        ],
+        [
+          "W",
+          "5"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "A502",
+      "Midsem": [
+        "07/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "GS F245",
+      "Title": "EFFECTIVE PUBLIC SPEAKING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "5",
+          "6"
+        ],
+        [
+          "W",
+          "5",
+          "6"
+        ]
+      ],
+      "Room": "A601",
+      "Midsem": [
+        "07/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "GS F311",
+      "Title": "INTRO TO CONFLICT MGMT",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "3"
+        ],
+        [
+          "W",
+          "3"
+        ],
+        [
+          "T",
+          "8"
+        ]
+      ],
+      "Room": "C405",
+      "Midsem": [
+        "17/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "GS F322",
+      "Title": "CRITI ANAL OF LIT & CINE",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "3"
+        ],
+        [
+          "W",
+          "3"
+        ],
+        [
+          "T",
+          "8"
+        ]
+      ],
+      "Room": "A602",
+      "Midsem": [
+        "17/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "GS F326",
+      "Title": "CREATIVE THINKING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "3"
+        ],
+        [
+          "T",
+          "3"
+        ],
+        [
+          "F",
+          "3"
+        ]
+      ],
+      "Room": "A605",
+      "Midsem": [
+        "13/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F227",
+      "Title": "CROSS CULTURAL SKILLS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4"
+        ],
+        [
+          "W",
+          "4"
+        ],
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "A602",
+      "Midsem": [
+        "15/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F232",
+      "Title": "INTRODUCTION TO DEVELOPMENT STUDIES",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "A501",
+      "Midsem": [
+        "08/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F235",
+      "Title": "INTRODUCTORY PHILOSOPHY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "5"
+        ],
+        [
+          "W",
+          "5"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "A501",
+      "Midsem": [
+        "07/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F236",
+      "Title": "SYMBOLIC LOGIC",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "C401",
+      "Midsem": [
+        "08/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F266",
+      "Title": "STUDY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F313",
+      "Title": "INTRO TO CONTEMPRORY ARTS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "C405",
+      "Midsem": [
+        "11/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F314",
+      "Title": "MARITIME STUDIES & BLUE ECON",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "W",
+          "1"
+        ],
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "A601",
+      "Midsem": [
+        "18/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F317",
+      "Title": "INTRODUCTION TO GLOBALIZATION",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "3"
+        ],
+        [
+          "W",
+          "3"
+        ],
+        [
+          "T",
+          "8"
+        ]
+      ],
+      "Room": "A603",
+      "Midsem": [
+        "17/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F318",
+      "Title": "INTRODUCTION TO ANTHROPOLOGY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "A501",
+      "Midsem": [
+        "11/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F332",
+      "Title": "CINEMATIC ART",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "A503",
+      "Midsem": [
+        "08/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F334",
+      "Title": "SRIMAD BHAGAVAD GITA",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "W",
+          "1"
+        ],
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "C301",
+      "Midsem": [
+        "18/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F338",
+      "Title": "COMPARATIVE INDIAN LIT",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "2"
+        ],
+        [
+          "T",
+          "2"
+        ],
+        [
+          "F",
+          "2"
+        ]
+      ],
+      "Room": "A602",
+      "Midsem": [
+        "09/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F340",
+      "Title": "POST COLONIAL LITERATURES",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4"
+        ],
+        [
+          "W",
+          "4"
+        ],
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "A507",
+      "Midsem": [
+        "15/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F347",
+      "Title": "INTRODUCTION TO CARNATIC MUSIC",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "5",
+          "6"
+        ],
+        [
+          "W",
+          "5",
+          "6"
+        ]
+      ],
+      "Room": "A507",
+      "Midsem": [
+        "05/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F347",
+      "Title": "INTRODUCTION TO CARNATIC MUSIC",
+      "LorT": "L",
+      "Section": "2",
+      "Times": [
+        [
+          "M",
+          "9",
+          "1"
+        ],
+        [
+          "W",
+          "9",
+          "1"
+        ]
+      ],
+      "Room": "A507",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F349",
+      "Title": "ECOCRITICISM",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "A502",
+      "Midsem": [
+        "08/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F362",
+      "Title": "LOCAL GOVERN & PARTICIPATION",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "3"
+        ],
+        [
+          "W",
+          "3"
+        ],
+        [
+          "T",
+          "8"
+        ]
+      ],
+      "Room": "C401",
+      "Midsem": [
+        "17/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F363",
+      "Title": "DISASTER AND DEVELOPMENT",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "A603",
+      "Midsem": [
+        "08/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F365",
+      "Title": "SCIENCE OF SUSTAIN HAPPINESS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "A601",
+      "Midsem": [
+        "08/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F369",
+      "Title": "CASTE AND GENDER IN INDIA",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "C301",
+      "Midsem": [
+        "11/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F372",
+      "Title": "INTRODUCTION TO SOCIAL PSYCHOLOGY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "5"
+        ],
+        [
+          "W",
+          "5"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "C307",
+      "Midsem": [
+        "07/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F373",
+      "Title": "SHAKESPEARE AND POPULAR CULTURE",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "2"
+        ],
+        [
+          "T",
+          "2"
+        ],
+        [
+          "F",
+          "2"
+        ]
+      ],
+      "Room": "A601",
+      "Midsem": [
+        "09/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F381",
+      "Title": "Environmental Sustainability Ventures",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "W",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "F",
+          "1",
+          "1",
+          "1"
+        ]
+      ],
+      "Room": "TP",
+      "Midsem": [
+        "TBA"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "HSS F399",
+      "Title": "INTRODUCTION TO AMERICAN LITE",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "C404",
+      "Midsem": [
+        "08/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F241",
+      "Title": "MICROPROCESSORS &",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "2"
+        ],
+        [
+          "W",
+          "2"
+        ],
+        [
+          "T",
+          "7"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        "10/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "INTERFACING",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F241",
+      "Title": "MICROPROCESSORS &",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "INTERFACING",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F241",
+      "Title": "MICROPROCESSORS &",
+      "LorT": "T",
+      "Section": "2",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "LT2",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "INTERFACING",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F241",
+      "Title": "MICROPROCESSORS &",
+      "LorT": "T",
+      "Section": "3",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "INTERFACING",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F241",
+      "Title": "MICROPROCESSORS &",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "INTERFACING",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F241",
+      "Title": "MICROPROCESSORS &",
+      "LorT": "P",
+      "Section": "2",
+      "Times": [
+        [
+          "M",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "INTERFACING",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F241",
+      "Title": "MICROPROCESSORS &",
+      "LorT": "P",
+      "Section": "3",
+      "Times": [
+        [
+          "S",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "INTERFACING",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F241",
+      "Title": "MICROPROCESSORS &",
+      "LorT": "P",
+      "Section": "4",
+      "Times": [
+        [
+          "S",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "INTERFACING",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F242",
+      "Title": "CONTROL SYSTEMS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "8"
+        ],
+        [
+          "W",
+          "8"
+        ],
+        [
+          "F",
+          "8"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        "14/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F242",
+      "Title": "CONTROL SYSTEMS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "W",
+          "1"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F242",
+      "Title": "CONTROL SYSTEMS",
+      "LorT": "T",
+      "Section": "2",
+      "Times": [
+        [
+          "W",
+          "1"
+        ]
+      ],
+      "Room": "LT2",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F243",
+      "Title": "SIGNALS & SYSTEMS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "9"
+        ],
+        [
+          "W",
+          "9"
+        ],
+        [
+          "F",
+          "9"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        "16/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F243",
+      "Title": "SIGNALS & SYSTEMS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F244",
+      "Title": "MICROELECTRONIC CIRCUITS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "5"
+        ],
+        [
+          "T",
+          "5"
+        ],
+        [
+          "F",
+          "5"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        "06/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F244",
+      "Title": "MICROELECTRONIC CIRCUITS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F266",
+      "Title": "STUDY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "5"
+        ],
+        [
+          "T",
+          "5"
+        ],
+        [
+          "F",
+          "5"
+        ]
+      ],
+      "Room": "LT2",
+      "Midsem": [
+        "06/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "T",
+      "Section": "2",
+      "Times": [
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "LT4",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "P",
+      "Section": "2",
+      "Times": [
+        [
+          "T",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "P",
+      "Section": "3",
+      "Times": [
+        [
+          "S",
+          "2",
+          "3"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F341",
+      "Title": "ANALOG ELECTRONICS",
+      "LorT": "P",
+      "Section": "4",
+      "Times": [
+        [
+          "S",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F342",
+      "Title": "POWER ELECTRONICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "3"
+        ],
+        [
+          "T",
+          "3"
+        ],
+        [
+          "F",
+          "3"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        "13/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F342",
+      "Title": "POWER ELECTRONICS",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F342",
+      "Title": "POWER ELECTRONICS",
+      "LorT": "P",
+      "Section": "2",
+      "Times": [
+        [
+          "T",
+          "9",
+          "1"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F342",
+      "Title": "POWER ELECTRONICS",
+      "LorT": "P",
+      "Section": "3",
+      "Times": [
+        [
+          "F",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F343",
+      "Title": "INDUS INSTRUMENT & CONT",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "9"
+        ],
+        [
+          "W",
+          "9"
+        ],
+        [
+          "F",
+          "9"
+        ]
+      ],
+      "Room": "DLT5",
+      "Midsem": [
+        "16/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F343",
+      "Title": "INDUS INSTRUMENT & CONT",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "DLT5",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F366",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F367",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F376",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "INSTR F377",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "IS F462",
+      "Title": "NETWORK PROGRAMMING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "F",
+          "6"
+        ],
+        [
+          "S",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "DLT6",
+      "Midsem": [
+        "05/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F112",
+      "Title": "MATHEMATICS II",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "2"
+        ],
+        [
+          "W",
+          "2"
+        ],
+        [
+          "T",
+          "7"
+        ]
+      ],
+      "Room": "LT4",
+      "Midsem": [
+        "11/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F112",
+      "Title": "MATHEMATICS II",
+      "LorT": "L",
+      "Section": "2",
+      "Times": [
+        [
+          "M",
+          "2"
+        ],
+        [
+          "W",
+          "2"
+        ],
+        [
+          "T",
+          "7"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F112",
+      "Title": "MATHEMATICS II",
+      "LorT": "L",
+      "Section": "3",
+      "Times": [
+        [
+          "M",
+          "9"
+        ],
+        [
+          "W",
+          "9"
+        ],
+        [
+          "F",
+          "9"
+        ]
+      ],
+      "Room": "LT4",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F112",
+      "Title": "MATHEMATICS II",
+      "LorT": "L",
+      "Section": "4",
+      "Times": [
+        [
+          "T",
+          "3"
+        ],
+        [
+          "T",
+          "3"
+        ],
+        [
+          "F",
+          "3"
+        ]
+      ],
+      "Room": "LT3",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F112",
+      "Title": "MATHEMATICS II",
+      "LorT": "L",
+      "Section": "5",
+      "Times": [
+        [
+          "T",
+          "3"
+        ],
+        [
+          "T",
+          "3"
+        ],
+        [
+          "F",
+          "3"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F112",
+      "Title": "MATHEMATICS II",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ]
+      ],
+      "Room": "A602",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F112",
+      "Title": "MATHEMATICS II",
+      "LorT": "T",
+      "Section": "2",
+      "Times": [
+        [
+          "M",
+          "1"
+        ]
+      ],
+      "Room": "C405",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F112",
+      "Title": "MATHEMATICS II",
+      "LorT": "T",
+      "Section": "3",
+      "Times": [
+        [
+          "W",
+          "1"
+        ]
+      ],
+      "Room": "C402",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F112",
+      "Title": "MATHEMATICS II",
+      "LorT": "T",
+      "Section": "4",
+      "Times": [
+        [
+          "M",
+          "1"
+        ]
+      ],
+      "Room": "LT4",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F112",
+      "Title": "MATHEMATICS II",
+      "LorT": "T",
+      "Section": "5",
+      "Times": [
+        [
+          "W",
+          "1"
+        ]
+      ],
+      "Room": "LT4",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F112",
+      "Title": "MATHEMATICS II",
+      "LorT": "T",
+      "Section": "6",
+      "Times": [
+        [
+          "M",
+          "1"
+        ]
+      ],
+      "Room": "LT3",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F112",
+      "Title": "MATHEMATICS II",
+      "LorT": "T",
+      "Section": "7",
+      "Times": [
+        [
+          "W",
+          "1"
+        ]
+      ],
+      "Room": "DLT5",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F112",
+      "Title": "MATHEMATICS II",
+      "LorT": "T",
+      "Section": "8",
+      "Times": [
+        [
+          "M",
+          "1"
+        ]
+      ],
+      "Room": "A603",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F112",
+      "Title": "MATHEMATICS II",
+      "LorT": "T",
+      "Section": "9",
+      "Times": [
+        [
+          "W",
+          "1"
+        ]
+      ],
+      "Room": "DLT6",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F112",
+      "Title": "MATHEMATICS II",
+      "LorT": "T",
+      "Section": "10",
+      "Times": [
+        [
+          "M",
+          "1"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F112",
+      "Title": "MATHEMATICS II",
+      "LorT": "T",
+      "Section": "11",
+      "Times": [
+        [
+          "W",
+          "1"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F112",
+      "Title": "MATHEMATICS II",
+      "LorT": "T",
+      "Section": "12",
+      "Times": [
+        [
+          "W",
+          "1"
+        ]
+      ],
+      "Room": "C405",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F113",
+      "Title": "PROBABILITY AND STATISTICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "5"
+        ],
+        [
+          "W",
+          "5"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "LT3",
+      "Midsem": [
+        "16/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F113",
+      "Title": "PROBABILITY AND STATISTICS",
+      "LorT": "L",
+      "Section": "2",
+      "Times": [
+        [
+          "M",
+          "9"
+        ],
+        [
+          "W",
+          "9"
+        ],
+        [
+          "F",
+          "9"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F113",
+      "Title": "PROBABILITY AND STATISTICS",
+      "LorT": "L",
+      "Section": "3",
+      "Times": [
+        [
+          "T",
+          "2"
+        ],
+        [
+          "T",
+          "2"
+        ],
+        [
+          "F",
+          "2"
+        ]
+      ],
+      "Room": "LT4",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F113",
+      "Title": "PROBABILITY AND STATISTICS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "A602",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F113",
+      "Title": "PROBABILITY AND STATISTICS",
+      "LorT": "T",
+      "Section": "2",
+      "Times": [
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "C401",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F113",
+      "Title": "PROBABILITY AND STATISTICS",
+      "LorT": "T",
+      "Section": "3",
+      "Times": [
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "C405",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F113",
+      "Title": "PROBABILITY AND STATISTICS",
+      "LorT": "T",
+      "Section": "4",
+      "Times": [
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "LT3",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F113",
+      "Title": "PROBABILITY AND STATISTICS",
+      "LorT": "T",
+      "Section": "5",
+      "Times": [
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "LT4",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F213",
+      "Title": "DISCREET MATHEMATICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "A605",
+      "Midsem": [
+        "11/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F231",
+      "Title": "NUMBER THEORY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "A605",
+      "Midsem": [
+        "08/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F241",
+      "Title": "MATHEMATICAL METHODS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "2"
+        ],
+        [
+          "T",
+          "2"
+        ],
+        [
+          "F",
+          "2"
+        ]
+      ],
+      "Room": "A603",
+      "Midsem": [
+        "09/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F241",
+      "Title": "MATHEMATICAL METHODS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "A603",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F242",
+      "Title": "OPERATIONS RESEARCH",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "8"
+        ],
+        [
+          "W",
+          "8"
+        ],
+        [
+          "F",
+          "8"
+        ]
+      ],
+      "Room": "A602",
+      "Midsem": [
+        "14/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F242",
+      "Title": "OPERATIONS RESEARCH",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "S",
+          "5"
+        ]
+      ],
+      "Room": "A602",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F243",
+      "Title": "GRAPHS AND NETWORKS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "2"
+        ],
+        [
+          "W",
+          "2"
+        ],
+        [
+          "T",
+          "7"
+        ]
+      ],
+      "Room": "A602",
+      "Midsem": [
+        "10/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F243",
+      "Title": "GRAPHS AND NETWORKS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "S",
+          "4"
+        ]
+      ],
+      "Room": "A602",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F244",
+      "Title": "MEASURE & INTEGRATION",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "A604",
+      "Midsem": [
+        "12/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F244",
+      "Title": "MEASURE & INTEGRATION",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "A604",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F266",
+      "Title": "STUDY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F313",
+      "Title": "NUMERICAL ANALYSIS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "A602",
+      "Midsem": [
+        "11/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F341",
+      "Title": "INTRO TO FUNCTIONAL ANAL",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "2"
+        ],
+        [
+          "T",
+          "2"
+        ],
+        [
+          "F",
+          "2"
+        ]
+      ],
+      "Room": "A605",
+      "Midsem": [
+        "09/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F341",
+      "Title": "INTRO TO FUNCTIONAL ANAL",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "A604",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F342",
+      "Title": "DIFFERENTIAL GEOMETRY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "3"
+        ],
+        [
+          "T",
+          "3"
+        ],
+        [
+          "F",
+          "3"
+        ]
+      ],
+      "Room": "A603",
+      "Midsem": [
+        "13/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F342",
+      "Title": "DIFFERENTIAL GEOMETRY",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ]
+      ],
+      "Room": "A603",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F343",
+      "Title": "PARTIAL DIFF EQUATIONS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "3"
+        ],
+        [
+          "W",
+          "3"
+        ],
+        [
+          "T",
+          "8"
+        ]
+      ],
+      "Room": "A604",
+      "Midsem": [
+        "17/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F343",
+      "Title": "PARTIAL DIFF EQUATIONS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "S",
+          "1"
+        ]
+      ],
+      "Room": "A603",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F353",
+      "Title": "STATISTICAL INFER & APP",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "W",
+          "1"
+        ],
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "A604",
+      "Midsem": [
+        "18/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F366",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F367",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F376",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F377",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F420",
+      "Title": "MATHEMATICAL MODELING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "5"
+        ],
+        [
+          "W",
+          "5"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "A604",
+      "Midsem": [
+        "07/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F424",
+      "Title": "APPLIED STOCHASTIC PROCESS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "A603",
+      "Midsem": [
+        "11/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F432",
+      "Title": "APPLIED STATISTICAL METHODS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "8"
+        ],
+        [
+          "W",
+          "8"
+        ],
+        [
+          "F",
+          "8"
+        ]
+      ],
+      "Room": "A604",
+      "Midsem": [
+        "14/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F471",
+      "Title": "NONLINEAR OPTIMIZATION",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "A604",
+      "Midsem": [
+        "08/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MATH F491",
+      "Title": "SPECIAL PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F112",
+      "Title": "WORKSHOP PRACTICE",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "A602",
+      "Midsem": [
+        "20/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F112",
+      "Title": "WORKSHOP PRACTICE",
+      "LorT": "L",
+      "Section": "2",
+      "Times": [
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "LT2",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F112",
+      "Title": "WORKSHOP PRACTICE",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "2",
+          "3",
+          "4"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F112",
+      "Title": "WORKSHOP PRACTICE",
+      "LorT": "P",
+      "Section": "2",
+      "Times": [
+        [
+          "W",
+          "2",
+          "3",
+          "4"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F112",
+      "Title": "WORKSHOP PRACTICE",
+      "LorT": "P",
+      "Section": "3",
+      "Times": [
+        [
+          "W",
+          "7",
+          "8",
+          "9"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F112",
+      "Title": "WORKSHOP PRACTICE",
+      "LorT": "P",
+      "Section": "4",
+      "Times": [
+        [
+          "T",
+          "7",
+          "8",
+          "9"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F112",
+      "Title": "WORKSHOP PRACTICE",
+      "LorT": "P",
+      "Section": "5",
+      "Times": [
+        [
+          "F",
+          "7",
+          "8",
+          "9"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F112",
+      "Title": "WORKSHOP PRACTICE",
+      "LorT": "P",
+      "Section": "6",
+      "Times": [
+        [
+          "F",
+          "3",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F218",
+      "Title": "ADVANCED MECHANICS OF",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "9"
+        ],
+        [
+          "W",
+          "9"
+        ]
+      ],
+      "Room": "DLT8",
+      "Midsem": [
+        "16/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "SOLIDS",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F218",
+      "Title": "ADVANCED MECHANICS OF",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "F",
+          "9"
+        ]
+      ],
+      "Room": "DLT8",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "SOLIDS",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F219",
+      "Title": "MANUFACTURING PROCESSES",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "8"
+        ],
+        [
+          "W",
+          "8"
+        ],
+        [
+          "F",
+          "8"
+        ]
+      ],
+      "Room": "DLT8",
+      "Midsem": [
+        "14/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F219",
+      "Title": "MANUFACTURING PROCESSES",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "W",
+          "1"
+        ]
+      ],
+      "Room": "DLT8",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F219",
+      "Title": "MANUFACTURING PROCESSES",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "3",
+          "4"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F219",
+      "Title": "MANUFACTURING PROCESSES",
+      "LorT": "P",
+      "Section": "2",
+      "Times": [
+        [
+          "S",
+          "2",
+          "3"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F220",
+      "Title": "HEAT TRANSFER",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "2"
+        ],
+        [
+          "W",
+          "2"
+        ],
+        [
+          "T",
+          "7"
+        ]
+      ],
+      "Room": "DLT8",
+      "Midsem": [
+        "10/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F220",
+      "Title": "HEAT TRANSFER",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "S",
+          "5"
+        ]
+      ],
+      "Room": "DLT8",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F220",
+      "Title": "HEAT TRANSFER",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F220",
+      "Title": "HEAT TRANSFER",
+      "LorT": "P",
+      "Section": "2",
+      "Times": [
+        [
+          "T",
+          "3",
+          "4"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F221",
+      "Title": "MECHANISMS AND MACHINES",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "5"
+        ],
+        [
+          "T",
+          "5"
+        ],
+        [
+          "F",
+          "5"
+        ]
+      ],
+      "Room": "DLT8",
+      "Midsem": [
+        "06/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F221",
+      "Title": "MECHANISMS AND MACHINES",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "DLT8",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F266",
+      "Title": "STUDY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F318",
+      "Title": "COMPUTER-AIDED DESIGN",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "F",
+          "2"
+        ]
+      ],
+      "Room": "DLT6",
+      "Midsem": [
+        "09/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F318",
+      "Title": "COMPUTER-AIDED DESIGN",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1",
+          "2"
+        ],
+        [
+          "T",
+          "1",
+          "2"
+        ]
+      ],
+      "Room": "CC 219",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F319",
+      "Title": "VIBRATIONS AND CONTROL",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "3"
+        ],
+        [
+          "T",
+          "3"
+        ],
+        [
+          "F",
+          "3"
+        ]
+      ],
+      "Room": "DLT6",
+      "Midsem": [
+        "13/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F319",
+      "Title": "VIBRATIONS AND CONTROL",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "S",
+          "1"
+        ]
+      ],
+      "Room": "DLT7",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F320",
+      "Title": "ENGINEERING OPTIMIZATION",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4"
+        ],
+        [
+          "W",
+          "4"
+        ],
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "DLT6",
+      "Midsem": [
+        "15/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F320",
+      "Title": "ENGINEERING OPTIMIZATION",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ]
+      ],
+      "Room": "DLT6",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F341",
+      "Title": "PRIMEMOVERS & FLUID MACH",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "3"
+        ],
+        [
+          "W",
+          "3"
+        ]
+      ],
+      "Room": "DLT6",
+      "Midsem": [
+        "17/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F341",
+      "Title": "PRIMEMOVERS & FLUID MACH",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "8"
+        ]
+      ],
+      "Room": "DLT6",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F341",
+      "Title": "PRIMEMOVERS & FLUID MACH",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "9",
+          "1"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F341",
+      "Title": "PRIMEMOVERS & FLUID MACH",
+      "LorT": "P",
+      "Section": "2",
+      "Times": [
+        [
+          "S",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F366",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F367",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F376",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F377",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F414",
+      "Title": "FUEL CELL SCIENCE AND",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "8"
+        ],
+        [
+          "W",
+          "8"
+        ],
+        [
+          "F",
+          "8"
+        ]
+      ],
+      "Room": "A603",
+      "Midsem": [
+        "14/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "TECHNOLOGY",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F420",
+      "Title": "POWER PLANT ENGINEERING",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "5"
+        ],
+        [
+          "W",
+          "5"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "A602",
+      "Midsem": [
+        "07/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F428",
+      "Title": "SMART MATERIALS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "2"
+        ],
+        [
+          "W",
+          "2"
+        ],
+        [
+          "T",
+          "7"
+        ]
+      ],
+      "Room": "DLT6",
+      "Midsem": [
+        "10/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F452",
+      "Title": "COMPOSITE MATERIALS & DESIGN",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "5"
+        ],
+        [
+          "T",
+          "5"
+        ],
+        [
+          "F",
+          "5"
+        ]
+      ],
+      "Room": "A602",
+      "Midsem": [
+        "06/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F461",
+      "Title": "REFRIGERATION AND AIR",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "9"
+        ],
+        [
+          "W",
+          "9"
+        ],
+        [
+          "F",
+          "9"
+        ]
+      ],
+      "Room": "A602",
+      "Midsem": [
+        "16/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "CONDITIONING",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME F491",
+      "Title": "SPECIAL PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "ME G611",
+      "Title": "COMP AIDED ANALYSIS AND",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4"
+        ],
+        [
+          "W",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "A506",
+      "Midsem": [
+        "15/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "DESIGN",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MEL G632",
+      "Title": "ANALOG IC DESIGN",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "F",
+          "1",
+          "1",
+          "1"
+        ]
+      ],
+      "Room": "D103",
+      "Midsem": [
+        "06/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MEL G641",
+      "Title": "CAD FOR IC DESIGN",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "5"
+        ],
+        [
+          "T",
+          "5"
+        ],
+        [
+          "F",
+          "5"
+        ]
+      ],
+      "Room": "D103",
+      "Midsem": [
+        "18/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MEL G642",
+      "Title": "VLSI ARCHITECHTURES",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "3"
+        ],
+        [
+          "T",
+          "3"
+        ],
+        [
+          "F",
+          "3"
+        ]
+      ],
+      "Room": "DLT5",
+      "Midsem": [
+        "13/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MGTS F211",
+      "Title": "PRINCIPLES OF MANAGEMENT",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "2"
+        ],
+        [
+          "T",
+          "2"
+        ],
+        [
+          "S",
+          "2"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        "09/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MGTS F211",
+      "Title": "PRINCIPLES OF MANAGEMENT",
+      "LorT": "L",
+      "Section": "2",
+      "Times": [
+        [
+          "T",
+          "2"
+        ],
+        [
+          "T",
+          "2"
+        ],
+        [
+          "S",
+          "2"
+        ]
+      ],
+      "Room": "DLT8",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MGTS F211",
+      "Title": "PRINCIPLES OF MANAGEMENT",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "S",
+          "1"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MGTS F211",
+      "Title": "PRINCIPLES OF MANAGEMENT",
+      "LorT": "T",
+      "Section": "2",
+      "Times": [
+        [
+          "S",
+          "1"
+        ]
+      ],
+      "Room": "DLT8",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "MST G522",
+      "Title": "ADVANCED COMPOSITES",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "5"
+        ],
+        [
+          "T",
+          "5"
+        ],
+        [
+          "F",
+          "5"
+        ]
+      ],
+      "Room": "A602",
+      "Midsem": [
+        "06/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F110",
+      "Title": "PHYSICS LABORATORY",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        "04/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F110",
+      "Title": "PHYSICS LABORATORY",
+      "LorT": "P",
+      "Section": "2",
+      "Times": [
+        [
+          "T",
+          "2",
+          "3"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F110",
+      "Title": "PHYSICS LABORATORY",
+      "LorT": "P",
+      "Section": "3",
+      "Times": [
+        [
+          "T",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F110",
+      "Title": "PHYSICS LABORATORY",
+      "LorT": "P",
+      "Section": "4",
+      "Times": [
+        [
+          "T",
+          "8",
+          "9"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F110",
+      "Title": "PHYSICS LABORATORY",
+      "LorT": "P",
+      "Section": "5",
+      "Times": [
+        [
+          "W",
+          "2",
+          "3"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F110",
+      "Title": "PHYSICS LABORATORY",
+      "LorT": "P",
+      "Section": "6",
+      "Times": [
+        [
+          "W",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F110",
+      "Title": "PHYSICS LABORATORY",
+      "LorT": "P",
+      "Section": "7",
+      "Times": [
+        [
+          "T",
+          "2",
+          "3"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F110",
+      "Title": "PHYSICS LABORATORY",
+      "LorT": "P",
+      "Section": "8",
+      "Times": [
+        [
+          "T",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F110",
+      "Title": "PHYSICS LABORATORY",
+      "LorT": "P",
+      "Section": "9",
+      "Times": [
+        [
+          "T",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F110",
+      "Title": "PHYSICS LABORATORY",
+      "LorT": "P",
+      "Section": "10",
+      "Times": [
+        [
+          "T",
+          "9",
+          "1"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F110",
+      "Title": "PHYSICS LABORATORY",
+      "LorT": "P",
+      "Section": "11",
+      "Times": [
+        [
+          "F",
+          "2",
+          "3"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F110",
+      "Title": "PHYSICS LABORATORY",
+      "LorT": "P",
+      "Section": "12",
+      "Times": [
+        [
+          "F",
+          "4",
+          "5"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F110",
+      "Title": "PHYSICS LABORATORY",
+      "LorT": "P",
+      "Section": "13",
+      "Times": [
+        [
+          "S",
+          "2",
+          "3"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F111",
+      "Title": "MECHANICS OSCILLATIONS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "5"
+        ],
+        [
+          "W",
+          "5"
+        ]
+      ],
+      "Room": "LT2",
+      "Midsem": [
+        "17/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "&WAVES",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F111",
+      "Title": "MECHANICS OSCILLATIONS",
+      "LorT": "L",
+      "Section": "2",
+      "Times": [
+        [
+          "T",
+          "2"
+        ],
+        [
+          "T",
+          "2"
+        ]
+      ],
+      "Room": "LT3",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "&WAVES",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F111",
+      "Title": "MECHANICS OSCILLATIONS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "C401",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "&WAVES",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F111",
+      "Title": "MECHANICS OSCILLATIONS",
+      "LorT": "T",
+      "Section": "2",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "LT2",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "&WAVES",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F111",
+      "Title": "MECHANICS OSCILLATIONS",
+      "LorT": "T",
+      "Section": "3",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "LT1",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "&WAVES",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F111",
+      "Title": "MECHANICS OSCILLATIONS",
+      "LorT": "T",
+      "Section": "4",
+      "Times": [
+        [
+          "W",
+          "1"
+        ],
+        [
+          "F",
+          "2"
+        ]
+      ],
+      "Room": "LT3",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "&WAVES",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F111",
+      "Title": "MECHANICS OSCILLATIONS",
+      "LorT": "T",
+      "Section": "5",
+      "Times": [
+        [
+          "W",
+          "1"
+        ],
+        [
+          "F",
+          "2"
+        ]
+      ],
+      "Room": "C401",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "&WAVES",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F111",
+      "Title": "MECHANICS OSCILLATIONS",
+      "LorT": "T",
+      "Section": "6",
+      "Times": [
+        [
+          "W",
+          "1"
+        ],
+        [
+          "F",
+          "2"
+        ]
+      ],
+      "Room": "C404",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "&WAVES",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F215",
+      "Title": "INTRODUCTION TO ASTRONOMY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4"
+        ],
+        [
+          "W",
+          "4"
+        ],
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "C401",
+      "Midsem": [
+        "15/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "&",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "ASTROPHYSICS",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F241",
+      "Title": "ELECTROMAGNETIC THEO II",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "3"
+        ],
+        [
+          "T",
+          "3"
+        ],
+        [
+          "F",
+          "3"
+        ]
+      ],
+      "Room": "C306",
+      "Midsem": [
+        "13/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F241",
+      "Title": "ELECTROMAGNETIC THEO II",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "C308",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F242",
+      "Title": "QUANTUM MECHANICS I",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "C308",
+      "Midsem": [
+        "11/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F242",
+      "Title": "QUANTUM MECHANICS I",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "C308",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F243",
+      "Title": "MATHE METHODS OF PHY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "5"
+        ],
+        [
+          "T",
+          "5"
+        ],
+        [
+          "F",
+          "5"
+        ]
+      ],
+      "Room": "C308",
+      "Midsem": [
+        "06/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F243",
+      "Title": "MATHE METHODS OF PHY",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "S",
+          "1"
+        ]
+      ],
+      "Room": "C308",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F244",
+      "Title": "MODERN PHY LAB",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "7",
+          "8",
+          "9"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        "TBA"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F244",
+      "Title": "MODERN PHY LAB",
+      "LorT": "P",
+      "Section": "2",
+      "Times": [
+        [
+          "W",
+          "7",
+          "8",
+          "9"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F244",
+      "Title": "MODERN PHY LAB",
+      "LorT": "P",
+      "Section": "3",
+      "Times": [
+        [
+          "S",
+          "2",
+          "3",
+          "4"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F266",
+      "Title": "STUDY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F317",
+      "Title": "INTRODUCTION TO RADIO",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "8"
+        ],
+        [
+          "W",
+          "8"
+        ],
+        [
+          "F",
+          "8"
+        ]
+      ],
+      "Room": "C404",
+      "Midsem": [
+        "14/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "ASTRONOMY",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F341",
+      "Title": "SOLID STATE PHYSICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "2"
+        ],
+        [
+          "T",
+          "2"
+        ],
+        [
+          "F",
+          "2"
+        ]
+      ],
+      "Room": "C308",
+      "Midsem": [
+        "09/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F341",
+      "Title": "SOLID STATE PHYSICS",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "8"
+        ]
+      ],
+      "Room": "C308",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F342",
+      "Title": "ATOMIC & MOLECULAR PHY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "3"
+        ],
+        [
+          "T",
+          "3"
+        ],
+        [
+          "F",
+          "3"
+        ]
+      ],
+      "Room": "C308",
+      "Midsem": [
+        "13/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F342",
+      "Title": "ATOMIC & MOLECULAR PHY",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ]
+      ],
+      "Room": "C308",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F343",
+      "Title": "NUCLEAR & PARTICLE PHY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "C401",
+      "Midsem": [
+        "11/05/24 (AN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F343",
+      "Title": "NUCLEAR & PARTICLE PHY",
+      "LorT": "T",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "C401",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F344",
+      "Title": "ADVANCED PHYSICS LAB",
+      "LorT": "P",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "3",
+          "4"
+        ],
+        [
+          "W",
+          "3",
+          "4"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        "TBA"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F344",
+      "Title": "ADVANCED PHYSICS LAB",
+      "LorT": "P",
+      "Section": "2",
+      "Times": [
+        [
+          "T",
+          "7",
+          "8"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "",
+      "LorT": "",
+      "Section": "",
+      "Times": [
+        [
+          "S",
+          "2",
+          "3"
+        ]
+      ],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F345",
+      "Title": "QUANTUM MECHANICS FOR ENGIN",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "5"
+        ],
+        [
+          "W",
+          "5"
+        ],
+        [
+          "T",
+          "1"
+        ]
+      ],
+      "Room": "C308",
+      "Midsem": [
+        "07/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F346",
+      "Title": "LASER SCIENCE AND TECHNOLOGY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "4"
+        ],
+        [
+          "W",
+          "4"
+        ],
+        [
+          "T",
+          "9"
+        ]
+      ],
+      "Room": "D104",
+      "Midsem": [
+        "15/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F366",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F367",
+      "Title": "LABORATORY PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F376",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F377",
+      "Title": "DESIGN PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F412",
+      "Title": "INTRO TO QUAN FIELD THEO",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "8"
+        ],
+        [
+          "W",
+          "8"
+        ],
+        [
+          "F",
+          "8"
+        ]
+      ],
+      "Room": "D104",
+      "Midsem": [
+        "14/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F415",
+      "Title": "GENERAL THEORY OF RELATIVITY",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "C308",
+      "Midsem": [
+        "08/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "AND",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "COSMOLOGY",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F417",
+      "Title": "EXPERIMENTAL",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "D104",
+      "Midsem": [
+        "11/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "METHODS OF PHYSICS",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F433",
+      "Title": "TOPICS IN NONLINEAR OPTICS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "7"
+        ],
+        [
+          "W",
+          "7"
+        ],
+        [
+          "F",
+          "7"
+        ]
+      ],
+      "Room": "D103",
+      "Midsem": [
+        "08/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F434",
+      "Title": "FOUNDATIONS OF QUANTUM MECH",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "M",
+          "1"
+        ],
+        [
+          "W",
+          "1"
+        ],
+        [
+          "F",
+          "1"
+        ]
+      ],
+      "Room": "D104",
+      "Midsem": [
+        "18/05/24 (FN)"
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "",
+      "Title": "",
+      "LorT": "",
+      "Section": "",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "PHY F491",
+      "Title": "SPECIAL PROJECT",
+      "LorT": "R",
+      "Section": "1",
+      "Times": [],
+      "Room": "",
+      "Midsem": [
+        ""
+      ]
+    }
+  ],
+  [
+    {
+      "Code": "SS G552",
+      "Title": "SOFTWARE TESTING METHODS",
+      "LorT": "L",
+      "Section": "1",
+      "Times": [
+        [
+          "T",
+          "4"
+        ],
+        [
+          "T",
+          "4"
+        ],
+        [
+          "F",
+          "4"
+        ]
+      ],
+      "Room": "C404",
+      "Midsem": [
+        "11/05/24 (FN)"
+      ]
+    }
+  ]
+]
