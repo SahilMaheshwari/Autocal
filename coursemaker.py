@@ -12,6 +12,8 @@ def datedefiner(Times):
     
     days = ['M', 'T', 'W', 'TH', 'F', 'S']
     slots = [str(i+1) for i in range(11)]
+    slots.append('X')
+    slots.append('Z')
 
     defined = []
     temp = []
@@ -56,8 +58,7 @@ def coursemaker():
                 'LorT'   : i[4],
                 'Section': i[5],
                 'Times'  : datedefiner(i[6]),
-                'Room'   : i[7],
-                'Midsem' : [i[8]] 
+                'Room'   : i[7]
             }
 
     courseDict = {k: v for k, v in courseDict.items() if v}
