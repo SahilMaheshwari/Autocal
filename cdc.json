@@ -1,0 +1,11 @@
+{
+    "MATH" : {
+        "Course List" : {
+            "2-1" :["MATH F211","MATH F212","MATH F213","MATH F214","MATH F215" ],
+            "2-2" :["MATH F241","MATH F242","MATH F243","MATH F244"],
+            "3-1" :["MATH F311","MATH F312","MATH F313"],
+            "3-2" :["MATH F341","MATH F342","MATH F343"]
+        }
+
+    }
+}

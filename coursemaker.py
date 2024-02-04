@@ -44,28 +44,28 @@ def datedefiner(Times):
 
 def coursemaker():
     global TTfile
-    courseList = []
+    courseDict = {}
 
     with open(TTfile, 'r') as file:
         line = csv.reader(file)
         for i in line:
-            courseDict = [{
+            courseDict[i[1]] = {
+                'ID'     : i[0],
                 'Code'   : i[1],
                 'Title'  : i[2],
                 'LorT'   : i[4],
                 'Section': i[5],
                 'Times'  : datedefiner(i[6]),
-                'Room' : i[7],
+                'Room'   : i[7],
                 'Midsem' : [i[8]] 
-            }]
-            courseList.append(courseDict)
+            }
 
-    courseList = [i for i in courseList if i]
+    courseDict = {k: v for k, v in courseDict.items() if v}
 
     with open(JSONfile, 'w') as file:
         json.dump({}, file)
 
     with open(JSONfile, 'w') as file:
-        json.dump(courseList, file, indent=2)
+        json.dump(courseDict, file, indent=2)
 
 coursemaker()
