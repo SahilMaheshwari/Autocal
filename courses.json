@@ -100,7 +100,7 @@
   "BIO F244": {
     "ID": "21426",
     "Code": "BIO F244",
-    "Title": "INSTRU METHODS OF ANAL",
+    "Title": "INSTRU MEUODS OF ANAL",
     "LorT": "P",
     "Section": "1",
     "Times": [
@@ -275,14 +275,12 @@
     "Times": [
       [
         "M",
-        "5"
+        "5",
+        "1"
       ],
       [
         "W",
-        "5"
-      ],
-      [
-        "T",
+        "5",
         "1"
       ]
     ],
@@ -298,10 +296,6 @@
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "4"
-      ],
       [
         "T",
         "4"
@@ -390,10 +384,6 @@
         "3"
       ],
       [
-        "T",
-        "3"
-      ],
-      [
         "F",
         "3"
       ]
@@ -477,10 +467,6 @@
         "4"
       ],
       [
-        "T",
-        "4"
-      ],
-      [
         "F",
         "4"
       ]
@@ -499,14 +485,12 @@
     "Times": [
       [
         "M",
-        "5"
+        "5",
+        "1"
       ],
       [
         "W",
-        "5"
-      ],
-      [
-        "T",
+        "5",
         "1"
       ]
     ],
@@ -579,7 +563,7 @@
   "BITS C799T": {
     "ID": "20553",
     "Code": "BITS C799T",
-    "Title": "PH D THESIS",
+    "Title": "PH D UESIS",
     "LorT": "R",
     "Section": "1",
     "Times": [],
@@ -627,7 +611,7 @@
   "BITS E661": {
     "ID": "22101",
     "Code": "BITS E661",
-    "Title": "RESEARCH METHODOLGY I",
+    "Title": "RESEARCH MEUODOLGY I",
     "LorT": "R",
     "Section": "1",
     "Times": [],
@@ -669,7 +653,7 @@
   "BITS F111": {
     "ID": "21004",
     "Code": "BITS F111",
-    "Title": "THERMODYNAMICS",
+    "Title": "UERMODYNAMICS",
     "LorT": "T",
     "Section": "8",
     "Times": [
@@ -690,20 +674,18 @@
   "BITS F314": {
     "ID": "22277",
     "Code": "BITS F314",
-    "Title": "GAME THEORY AND IT'S APPLICATIONS",
+    "Title": "GAME UEORY AND IT'S APPLICATIONS",
     "LorT": "L",
     "Section": "1",
     "Times": [
       [
         "M",
-        "5"
+        "5",
+        "1"
       ],
       [
         "W",
-        "5"
-      ],
-      [
-        "T",
+        "5",
         "1"
       ]
     ],
@@ -721,14 +703,12 @@
     "Times": [
       [
         "M",
-        "5"
+        "5",
+        "1"
       ],
       [
         "W",
-        "5"
-      ],
-      [
-        "T",
+        "5",
         "1"
       ]
     ],
@@ -740,7 +720,7 @@
   "BITS F317": {
     "ID": "22193",
     "Code": "BITS F317",
-    "Title": "THEORETICAL NEUROSCIENCE",
+    "Title": "UEORETICAL NEUROSCIENCE",
     "LorT": "L",
     "Section": "1",
     "Times": [
@@ -802,14 +782,12 @@
     "Times": [
       [
         "M",
-        "4"
+        "4",
+        "9"
       ],
       [
         "W",
-        "4"
-      ],
-      [
-        "T",
+        "4",
         "9"
       ]
     ],
@@ -855,10 +833,6 @@
         "4"
       ],
       [
-        "T",
-        "4"
-      ],
-      [
         "F",
         "4"
       ]
@@ -871,7 +845,7 @@
   "BITS F421T": {
     "ID": "21593",
     "Code": "BITS F421T",
-    "Title": "THESIS",
+    "Title": "UESIS",
     "LorT": "R",
     "Section": "1",
     "Times": [],
@@ -883,7 +857,7 @@
   "BITS F422T": {
     "ID": "21616",
     "Code": "BITS F422T",
-    "Title": "THESIS",
+    "Title": "UESIS",
     "LorT": "R",
     "Section": "1",
     "Times": [],
@@ -895,7 +869,7 @@
   "BITS F423T": {
     "ID": "21617",
     "Code": "BITS F423T",
-    "Title": "THESIS",
+    "Title": "UESIS",
     "LorT": "R",
     "Section": "1",
     "Times": [],
@@ -913,14 +887,12 @@
     "Times": [
       [
         "M",
-        "2"
+        "2",
+        "7"
       ],
       [
         "W",
-        "2"
-      ],
-      [
-        "T",
+        "2",
         "7"
       ]
     ],
@@ -963,14 +935,12 @@
     "Times": [
       [
         "M",
-        "5"
+        "5",
+        "1"
       ],
       [
         "W",
-        "5"
-      ],
-      [
-        "T",
+        "5",
         "1"
       ]
     ],
@@ -1048,14 +1018,12 @@
     "Times": [
       [
         "M",
-        "3"
+        "3",
+        "8"
       ],
       [
         "W",
-        "3"
-      ],
-      [
-        "T",
+        "3",
         "8"
       ]
     ],
@@ -1127,7 +1095,7 @@
   "BITS G661": {
     "ID": "22167",
     "Code": "BITS G661",
-    "Title": "RESEARCH METHODOLOGY I",
+    "Title": "RESEARCH MEUODOLOGY I",
     "LorT": "R",
     "Section": "1",
     "Times": [],
@@ -1156,15 +1124,10 @@
   "CHE F242": {
     "ID": "21181",
     "Code": "CHE F242",
-    "Title": "NUMERICAL METHODS FOR CHEMICAL ENGINEERS",
+    "Title": "NUMERICAL MEUODS FOR CHEMICAL ENGINEERS",
     "LorT": "T",
     "Section": "1",
-    "Times": [
-      [
-        "T",
-        "1"
-      ]
-    ],
+    "Times": [],
     "Room": "A605",
     "Midsem": [
       ""
@@ -1332,14 +1295,12 @@
     "Times": [
       [
         "M",
-        "2"
+        "2",
+        "1"
       ],
       [
         "W",
-        "2"
-      ],
-      [
-        "T",
+        "2",
         "1"
       ]
     ],
@@ -1355,10 +1316,6 @@
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "3"
-      ],
       [
         "T",
         "3"
@@ -1382,14 +1339,12 @@
     "Times": [
       [
         "M",
-        "5"
+        "5",
+        "1"
       ],
       [
         "W",
-        "5"
-      ],
-      [
-        "T",
+        "5",
         "1"
       ]
     ],
@@ -1405,10 +1360,6 @@
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "5"
-      ],
       [
         "T",
         "5"
@@ -1547,10 +1498,6 @@
         "2"
       ],
       [
-        "T",
-        "2"
-      ],
-      [
         "F",
         "2"
       ]
@@ -1609,12 +1556,7 @@
     "Title": "INORGANIC CHEMISTRY II",
     "LorT": "T",
     "Section": "1",
-    "Times": [
-      [
-        "T",
-        "1"
-      ]
-    ],
+    "Times": [],
     "Room": "C306",
     "Midsem": [
       ""
@@ -1731,14 +1673,12 @@
     "Times": [
       [
         "M",
-        "4"
+        "4",
+        "9"
       ],
       [
         "W",
-        "4"
-      ],
-      [
-        "T",
+        "4",
         "9"
       ]
     ],
@@ -1756,14 +1696,12 @@
     "Times": [
       [
         "M",
-        "5"
+        "5",
+        "1"
       ],
       [
         "W",
-        "5"
-      ],
-      [
-        "T",
+        "5",
         "1"
       ]
     ],
@@ -1781,14 +1719,12 @@
     "Times": [
       [
         "M",
-        "5"
+        "5",
+        "1"
       ],
       [
         "W",
-        "5"
-      ],
-      [
-        "T",
+        "5",
         "1"
       ]
     ],
@@ -1806,14 +1742,12 @@
     "Times": [
       [
         "M",
-        "4"
+        "4",
+        "9"
       ],
       [
         "W",
-        "4"
-      ],
-      [
-        "T",
+        "4",
         "9"
       ]
     ],
@@ -2014,7 +1948,7 @@
   "CS F211": {
     "ID": "21094",
     "Code": "CS F211",
-    "Title": "DATA STRUCTURES & ALGORITHMS",
+    "Title": "DATA STRUCTURES & ALGORIUMS",
     "LorT": "P",
     "Section": "1",
     "Times": [
@@ -2053,15 +1987,7 @@
     "Title": "OBJECT ORIENTED PROG",
     "LorT": "P",
     "Section": "1",
-    "Times": [
-      [
-        "T",
-        "1",
-        "1",
-        "1",
-        "2"
-      ]
-    ],
+    "Times": [],
     "Room": "CC 219",
     "Midsem": [
       ""
@@ -2177,10 +2103,6 @@
         "4"
       ],
       [
-        "T",
-        "4"
-      ],
-      [
         "F",
         "4"
       ]
@@ -2235,10 +2157,6 @@
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "2"
-      ],
       [
         "T",
         "2"
@@ -2372,20 +2290,18 @@
   "CS F430": {
     "ID": "22520",
     "Code": "CS F430",
-    "Title": "APPROXIMATION ALGORITHMS",
+    "Title": "APPROXIMATION ALGORIUMS",
     "LorT": "L",
     "Section": "1",
     "Times": [
       [
         "M",
-        "4"
+        "4",
+        "9"
       ],
       [
         "W",
-        "4"
-      ],
-      [
-        "T",
+        "4",
         "9"
       ]
     ],
@@ -2403,14 +2319,12 @@
     "Times": [
       [
         "M",
-        "3"
+        "3",
+        "8"
       ],
       [
         "W",
-        "3"
-      ],
-      [
-        "T",
+        "3",
         "8"
       ]
     ],
@@ -2448,10 +2362,6 @@
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "1"
-      ],
       [
         "T",
         "9",
@@ -2524,10 +2434,6 @@
         "3"
       ],
       [
-        "T",
-        "3"
-      ],
-      [
         "F",
         "3"
       ]
@@ -2544,14 +2450,6 @@
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "1",
-        "2",
-        "1",
-        "1",
-        "5"
-      ],
       [
         "T",
         "1",
@@ -2699,14 +2597,12 @@
     "Times": [
       [
         "M",
-        "4"
+        "4",
+        "9"
       ],
       [
         "W",
-        "4"
-      ],
-      [
-        "T",
+        "4",
         "9"
       ]
     ],
@@ -2718,14 +2614,10 @@
   "ECE F344": {
     "ID": "21390",
     "Code": "ECE F344",
-    "Title": "INFORMATION THEORY & CODING",
+    "Title": "INFORMATION UEORY & CODING",
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "2"
-      ],
       [
         "T",
         "2"
@@ -2797,14 +2689,12 @@
     "Times": [
       [
         "M",
-        "5"
+        "5",
+        "1"
       ],
       [
         "W",
-        "5"
-      ],
-      [
-        "T",
+        "5",
         "1"
       ]
     ],
@@ -2854,10 +2744,6 @@
         "4"
       ],
       [
-        "T",
-        "4"
-      ],
-      [
         "F",
         "4"
       ]
@@ -2870,7 +2756,7 @@
   "ECON F241": {
     "ID": "21442",
     "Code": "ECON F241",
-    "Title": "ECONOMETRIC METHODS",
+    "Title": "ECONOMETRIC MEUODS",
     "LorT": "T",
     "Section": "1",
     "Times": [
@@ -2921,7 +2807,7 @@
   "ECON F244": {
     "ID": "21445",
     "Code": "ECON F244",
-    "Title": "ECONOMIC OF GROWTH & DEV",
+    "Title": "ECONOMIC OF GROWU & DEV",
     "LorT": "T",
     "Section": "1",
     "Times": [
@@ -2975,7 +2861,7 @@
   "ECON F341": {
     "ID": "21449",
     "Code": "ECON F341",
-    "Title": "PUBLIC FINANCE THEORY & POLICY",
+    "Title": "PUBLIC FINANCE UEORY & POLICY",
     "LorT": "T",
     "Section": "1",
     "Times": [
@@ -3377,14 +3263,12 @@
     "Times": [
       [
         "M",
-        "5"
+        "5",
+        "1"
       ],
       [
         "W",
-        "5"
-      ],
-      [
-        "T",
+        "5",
         "1"
       ]
     ],
@@ -3402,14 +3286,12 @@
     "Times": [
       [
         "M",
-        "2"
+        "2",
+        "7"
       ],
       [
         "W",
-        "2"
-      ],
-      [
-        "T",
+        "2",
         "7"
       ]
     ],
@@ -3421,14 +3303,10 @@
   "EEE F474": {
     "ID": "21855",
     "Code": "EEE F474",
-    "Title": "ANTENNA THEORY AND DESIGN",
+    "Title": "ANTENNA UEORY AND DESIGN",
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "4"
-      ],
       [
         "T",
         "4"
@@ -3455,10 +3333,6 @@
         "2"
       ],
       [
-        "T",
-        "2"
-      ],
-      [
         "F",
         "2"
       ]
@@ -3480,10 +3354,6 @@
         "3"
       ],
       [
-        "T",
-        "3"
-      ],
-      [
         "F",
         "3"
       ]
@@ -3500,10 +3370,6 @@
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "5"
-      ],
       [
         "T",
         "5"
@@ -3575,14 +3441,12 @@
     "Times": [
       [
         "M",
-        "3"
+        "3",
+        "8"
       ],
       [
         "W",
-        "3"
-      ],
-      [
-        "T",
+        "3",
         "8"
       ]
     ],
@@ -3628,10 +3492,6 @@
         "3"
       ],
       [
-        "T",
-        "3"
-      ],
-      [
         "F",
         "3"
       ]
@@ -3648,10 +3508,6 @@
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "4"
-      ],
       [
         "T",
         "4"
@@ -3678,10 +3534,6 @@
         "4"
       ],
       [
-        "T",
-        "4"
-      ],
-      [
         "F",
         "4"
       ]
@@ -3700,14 +3552,12 @@
     "Times": [
       [
         "M",
-        "5"
+        "5",
+        "1"
       ],
       [
         "W",
-        "5"
-      ],
-      [
-        "T",
+        "5",
         "1"
       ]
     ],
@@ -3748,14 +3598,12 @@
     "Times": [
       [
         "M",
-        "3"
+        "3",
+        "8"
       ],
       [
         "W",
-        "3"
-      ],
-      [
-        "T",
+        "3",
         "8"
       ]
     ],
@@ -3773,14 +3621,12 @@
     "Times": [
       [
         "M",
-        "3"
+        "3",
+        "8"
       ],
       [
         "W",
-        "3"
-      ],
-      [
-        "T",
+        "3",
         "8"
       ]
     ],
@@ -3792,14 +3638,10 @@
   "GS F326": {
     "ID": "21524",
     "Code": "GS F326",
-    "Title": "CREATIVE THINKING",
+    "Title": "CREATIVE UINKING",
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "3"
-      ],
       [
         "T",
         "3"
@@ -3823,14 +3665,12 @@
     "Times": [
       [
         "M",
-        "4"
+        "4",
+        "9"
       ],
       [
         "W",
-        "4"
-      ],
-      [
-        "T",
+        "4",
         "9"
       ]
     ],
@@ -3873,14 +3713,12 @@
     "Times": [
       [
         "M",
-        "5"
+        "5",
+        "1"
       ],
       [
         "W",
-        "5"
-      ],
-      [
-        "T",
+        "5",
         "1"
       ]
     ],
@@ -3938,10 +3776,6 @@
         "4"
       ],
       [
-        "T",
-        "4"
-      ],
-      [
         "F",
         "4"
       ]
@@ -3985,14 +3819,12 @@
     "Times": [
       [
         "M",
-        "3"
+        "3",
+        "8"
       ],
       [
         "W",
-        "3"
-      ],
-      [
-        "T",
+        "3",
         "8"
       ]
     ],
@@ -4004,14 +3836,10 @@
   "HSS F318": {
     "ID": "21647",
     "Code": "HSS F318",
-    "Title": "INTRODUCTION TO ANTHROPOLOGY",
+    "Title": "INTRODUCTION TO ANUROPOLOGY",
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "4"
-      ],
       [
         "T",
         "4"
@@ -4088,10 +3916,6 @@
         "2"
       ],
       [
-        "T",
-        "2"
-      ],
-      [
         "F",
         "2"
       ]
@@ -4110,14 +3934,12 @@
     "Times": [
       [
         "M",
-        "4"
+        "4",
+        "9"
       ],
       [
         "W",
-        "4"
-      ],
-      [
-        "T",
+        "4",
         "9"
       ]
     ],
@@ -4183,14 +4005,12 @@
     "Times": [
       [
         "M",
-        "3"
+        "3",
+        "8"
       ],
       [
         "W",
-        "3"
-      ],
-      [
-        "T",
+        "3",
         "8"
       ]
     ],
@@ -4261,10 +4081,6 @@
         "4"
       ],
       [
-        "T",
-        "4"
-      ],
-      [
         "F",
         "4"
       ]
@@ -4283,14 +4099,12 @@
     "Times": [
       [
         "M",
-        "5"
+        "5",
+        "1"
       ],
       [
         "W",
-        "5"
-      ],
-      [
-        "T",
+        "5",
         "1"
       ]
     ],
@@ -4306,10 +4120,6 @@
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "2"
-      ],
       [
         "T",
         "2"
@@ -4584,10 +4394,10 @@
       "05/05/24 (FN)"
     ]
   },
-  "MATH F112": {
+  "MAU F112": {
     "ID": "21011",
-    "Code": "MATH F112",
-    "Title": "MATHEMATICS II",
+    "Code": "MAU F112",
+    "Title": "MAUEMATICS II",
     "LorT": "T",
     "Section": "12",
     "Times": [
@@ -4601,9 +4411,9 @@
       ""
     ]
   },
-  "MATH F113": {
+  "MAU F113": {
     "ID": "21012",
-    "Code": "MATH F113",
+    "Code": "MAU F113",
     "Title": "PROBABILITY AND STATISTICS",
     "LorT": "T",
     "Section": "5",
@@ -4618,17 +4428,13 @@
       ""
     ]
   },
-  "MATH F213": {
+  "MAU F213": {
     "ID": "21123",
-    "Code": "MATH F213",
-    "Title": "DISCREET MATHEMATICS",
+    "Code": "MAU F213",
+    "Title": "DISCREET MAUEMATICS",
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "4"
-      ],
       [
         "T",
         "4"
@@ -4643,10 +4449,10 @@
       "11/05/24 (FN)"
     ]
   },
-  "MATH F231": {
+  "MAU F231": {
     "ID": "21340",
-    "Code": "MATH F231",
-    "Title": "NUMBER THEORY",
+    "Code": "MAU F231",
+    "Title": "NUMBER UEORY",
     "LorT": "L",
     "Section": "1",
     "Times": [
@@ -4668,10 +4474,10 @@
       "08/05/24 (FN)"
     ]
   },
-  "MATH F241": {
+  "MAU F241": {
     "ID": "21465",
-    "Code": "MATH F241",
-    "Title": "MATHEMATICAL METHODS",
+    "Code": "MAU F241",
+    "Title": "MAUEMATICAL MEUODS",
     "LorT": "T",
     "Section": "1",
     "Times": [
@@ -4685,9 +4491,9 @@
       ""
     ]
   },
-  "MATH F242": {
+  "MAU F242": {
     "ID": "21466",
-    "Code": "MATH F242",
+    "Code": "MAU F242",
     "Title": "OPERATIONS RESEARCH",
     "LorT": "T",
     "Section": "1",
@@ -4702,9 +4508,9 @@
       ""
     ]
   },
-  "MATH F243": {
+  "MAU F243": {
     "ID": "21467",
-    "Code": "MATH F243",
+    "Code": "MAU F243",
     "Title": "GRAPHS AND NETWORKS",
     "LorT": "T",
     "Section": "1",
@@ -4719,9 +4525,9 @@
       ""
     ]
   },
-  "MATH F244": {
+  "MAU F244": {
     "ID": "21468",
-    "Code": "MATH F244",
+    "Code": "MAU F244",
     "Title": "MEASURE & INTEGRATION",
     "LorT": "T",
     "Section": "1",
@@ -4736,9 +4542,9 @@
       ""
     ]
   },
-  "MATH F266": {
+  "MAU F266": {
     "ID": "21662",
-    "Code": "MATH F266",
+    "Code": "MAU F266",
     "Title": "STUDY PROJECT",
     "LorT": "R",
     "Section": "1",
@@ -4748,17 +4554,13 @@
       ""
     ]
   },
-  "MATH F313": {
+  "MAU F313": {
     "ID": "21471",
-    "Code": "MATH F313",
+    "Code": "MAU F313",
     "Title": "NUMERICAL ANALYSIS",
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "4"
-      ],
       [
         "T",
         "4"
@@ -4773,9 +4575,9 @@
       "11/05/24 (FN)"
     ]
   },
-  "MATH F341": {
+  "MAU F341": {
     "ID": "21472",
-    "Code": "MATH F341",
+    "Code": "MAU F341",
     "Title": "INTRO TO FUNCTIONAL ANAL",
     "LorT": "T",
     "Section": "1",
@@ -4790,9 +4592,9 @@
       ""
     ]
   },
-  "MATH F342": {
+  "MAU F342": {
     "ID": "21473",
-    "Code": "MATH F342",
+    "Code": "MAU F342",
     "Title": "DIFFERENTIAL GEOMETRY",
     "LorT": "T",
     "Section": "1",
@@ -4807,9 +4609,9 @@
       ""
     ]
   },
-  "MATH F343": {
+  "MAU F343": {
     "ID": "21474",
-    "Code": "MATH F343",
+    "Code": "MAU F343",
     "Title": "PARTIAL DIFF EQUATIONS",
     "LorT": "T",
     "Section": "1",
@@ -4824,9 +4626,9 @@
       ""
     ]
   },
-  "MATH F353": {
+  "MAU F353": {
     "ID": "21479",
-    "Code": "MATH F353",
+    "Code": "MAU F353",
     "Title": "STATISTICAL INFER & APP",
     "LorT": "L",
     "Section": "1",
@@ -4849,9 +4651,9 @@
       "18/05/24 (FN)"
     ]
   },
-  "MATH F366": {
+  "MAU F366": {
     "ID": "21679",
-    "Code": "MATH F366",
+    "Code": "MAU F366",
     "Title": "LABORATORY PROJECT",
     "LorT": "R",
     "Section": "1",
@@ -4861,9 +4663,9 @@
       ""
     ]
   },
-  "MATH F367": {
+  "MAU F367": {
     "ID": "21747",
-    "Code": "MATH F367",
+    "Code": "MAU F367",
     "Title": "LABORATORY PROJECT",
     "LorT": "R",
     "Section": "1",
@@ -4873,9 +4675,9 @@
       ""
     ]
   },
-  "MATH F376": {
+  "MAU F376": {
     "ID": "21696",
-    "Code": "MATH F376",
+    "Code": "MAU F376",
     "Title": "DESIGN PROJECT",
     "LorT": "R",
     "Section": "1",
@@ -4885,9 +4687,9 @@
       ""
     ]
   },
-  "MATH F377": {
+  "MAU F377": {
     "ID": "21763",
-    "Code": "MATH F377",
+    "Code": "MAU F377",
     "Title": "DESIGN PROJECT",
     "LorT": "R",
     "Section": "1",
@@ -4897,23 +4699,21 @@
       ""
     ]
   },
-  "MATH F420": {
+  "MAU F420": {
     "ID": "21882",
-    "Code": "MATH F420",
-    "Title": "MATHEMATICAL MODELING",
+    "Code": "MAU F420",
+    "Title": "MAUEMATICAL MODELING",
     "LorT": "L",
     "Section": "1",
     "Times": [
       [
         "M",
-        "5"
+        "5",
+        "1"
       ],
       [
         "W",
-        "5"
-      ],
-      [
-        "T",
+        "5",
         "1"
       ]
     ],
@@ -4922,17 +4722,13 @@
       "07/05/24 (AN)"
     ]
   },
-  "MATH F424": {
+  "MAU F424": {
     "ID": "22191",
-    "Code": "MATH F424",
+    "Code": "MAU F424",
     "Title": "APPLIED STOCHASTIC PROCESS",
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "4"
-      ],
       [
         "T",
         "4"
@@ -4947,10 +4743,10 @@
       "11/05/24 (FN)"
     ]
   },
-  "MATH F432": {
+  "MAU F432": {
     "ID": "22273",
-    "Code": "MATH F432",
-    "Title": "APPLIED STATISTICAL METHODS",
+    "Code": "MAU F432",
+    "Title": "APPLIED STATISTICAL MEUODS",
     "LorT": "L",
     "Section": "1",
     "Times": [
@@ -4972,9 +4768,9 @@
       "14/05/24 (FN)"
     ]
   },
-  "MATH F471": {
+  "MAU F471": {
     "ID": "21476",
-    "Code": "MATH F471",
+    "Code": "MAU F471",
     "Title": "NONLINEAR OPTIMIZATION",
     "LorT": "L",
     "Section": "1",
@@ -4997,9 +4793,9 @@
       "08/05/24 (FN)"
     ]
   },
-  "MATH F491": {
+  "MAU F491": {
     "ID": "21721",
-    "Code": "MATH F491",
+    "Code": "MAU F491",
     "Title": "SPECIAL PROJECT",
     "LorT": "R",
     "Section": "1",
@@ -5069,13 +4865,7 @@
     "Title": "HEAT TRANSFER",
     "LorT": "P",
     "Section": "2",
-    "Times": [
-      [
-        "T",
-        "3",
-        "4"
-      ]
-    ],
+    "Times": [],
     "Room": "",
     "Midsem": [
       ""
@@ -5117,11 +4907,6 @@
     "LorT": "P",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "1",
-        "2"
-      ],
       [
         "T",
         "1",
@@ -5267,14 +5052,12 @@
     "Times": [
       [
         "M",
-        "5"
+        "5",
+        "1"
       ],
       [
         "W",
-        "5"
-      ],
-      [
-        "T",
+        "5",
         "1"
       ]
     ],
@@ -5292,14 +5075,12 @@
     "Times": [
       [
         "M",
-        "2"
+        "2",
+        "7"
       ],
       [
         "W",
-        "2"
-      ],
-      [
-        "T",
+        "2",
         "7"
       ]
     ],
@@ -5315,10 +5096,6 @@
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "5"
-      ],
       [
         "T",
         "5"
@@ -5432,10 +5209,6 @@
         "5"
       ],
       [
-        "T",
-        "5"
-      ],
-      [
         "F",
         "5"
       ]
@@ -5452,10 +5225,6 @@
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "3"
-      ],
       [
         "T",
         "3"
@@ -5494,10 +5263,6 @@
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "5"
-      ],
       [
         "T",
         "5"
@@ -5560,14 +5325,12 @@
     "Times": [
       [
         "M",
-        "4"
+        "4",
+        "9"
       ],
       [
         "W",
-        "4"
-      ],
-      [
-        "T",
+        "4",
         "9"
       ]
     ],
@@ -5579,7 +5342,7 @@
   "PHY F241": {
     "ID": "21482",
     "Code": "PHY F241",
-    "Title": "ELECTROMAGNETIC THEO II",
+    "Title": "ELECTROMAGNETIC UEO II",
     "LorT": "T",
     "Section": "1",
     "Times": [
@@ -5613,7 +5376,7 @@
   "PHY F243": {
     "ID": "21484",
     "Code": "PHY F243",
-    "Title": "MATHE METHODS OF PHY",
+    "Title": "MAUE MEUODS OF PHY",
     "LorT": "T",
     "Section": "1",
     "Times": [
@@ -5689,12 +5452,7 @@
     "Title": "SOLID STATE PHYSICS",
     "LorT": "T",
     "Section": "1",
-    "Times": [
-      [
-        "T",
-        "8"
-      ]
-    ],
+    "Times": [],
     "Room": "C308",
     "Midsem": [
       ""
@@ -5761,14 +5519,12 @@
     "Times": [
       [
         "M",
-        "5"
+        "5",
+        "1"
       ],
       [
         "W",
-        "5"
-      ],
-      [
-        "T",
+        "5",
         "1"
       ]
     ],
@@ -5786,14 +5542,12 @@
     "Times": [
       [
         "M",
-        "4"
+        "4",
+        "9"
       ],
       [
         "W",
-        "4"
-      ],
-      [
-        "T",
+        "4",
         "9"
       ]
     ],
@@ -5853,7 +5607,7 @@
   "PHY F412": {
     "ID": "21495",
     "Code": "PHY F412",
-    "Title": "INTRO TO QUAN FIELD THEO",
+    "Title": "INTRO TO QUAN FIELD UEO",
     "LorT": "L",
     "Section": "1",
     "Times": [
@@ -5878,7 +5632,7 @@
   "PHY F415": {
     "ID": "21498",
     "Code": "PHY F415",
-    "Title": "GENERAL THEORY OF RELATIVITY AND COSMOLOGY",
+    "Title": "GENERAL UEORY OF RELATIVITY AND COSMOLOGY",
     "LorT": "L",
     "Section": "1",
     "Times": [
@@ -5903,14 +5657,10 @@
   "PHY F417": {
     "ID": "21500",
     "Code": "PHY F417",
-    "Title": "EXPERIMENTAL METHODS OF PHYSICS",
+    "Title": "EXPERIMENTAL MEUODS OF PHYSICS",
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "4"
-      ],
       [
         "T",
         "4"
@@ -5990,14 +5740,10 @@
   "SS G552": {
     "ID": "20485",
     "Code": "SS G552",
-    "Title": "SOFTWARE TESTING METHODS",
+    "Title": "SOFTWARE TESTING MEUODS",
     "LorT": "L",
     "Section": "1",
     "Times": [
-      [
-        "T",
-        "4"
-      ],
       [
         "T",
         "4"
