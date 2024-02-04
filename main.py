@@ -1,5 +1,6 @@
 import json
 import coursemaker
+from ics import Calendar, Event
 
 codeToDegree = {'B4' : 'MATH'}
 
