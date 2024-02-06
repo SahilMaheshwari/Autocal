@@ -1,6 +1,5 @@
 import json
 import coursemaker
-from ics import Calendar, Event
 
 codeToDegree = {'B4' : 'MATH'}
 
@@ -26,11 +25,17 @@ while True:
         break
     except:
         print('please input correct roll num in the form of yyyyXXXXzzzzG')
-sem = 1
+
+
+sem = int(input("What is your sem? "))
 year = 2024-batch
 fDegree = codeToDegree[fDegree]
 
-cdcThisSem = cdcList[fDegree]['Course List'][str(year)+'-'+str(sem)]
+yearsem = str(year)+'-'+str(sem)
+print(yearsem)
+print("asdasdasdas")
+cdcThisSem = cdcList[fDegree]['Course List'][yearsem]
+print(cdcThisSem)
 
 for i in cdcThisSem :
     try:

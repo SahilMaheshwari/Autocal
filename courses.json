@@ -3659,9 +3659,9 @@
     ],
     "Room": "DLT6"
   },
-  "MAU F112": {
+  "MATH F112": {
     "ID": "21011",
-    "Code": "MAU F112",
+    "Code": "MATH F112",
     "Title": "MAUEMATICS II",
     "LorT": "T",
     "Section": "12",
@@ -3673,9 +3673,9 @@
     ],
     "Room": "C405"
   },
-  "MAU F113": {
+  "MATH F113": {
     "ID": "21012",
-    "Code": "MAU F113",
+    "Code": "MATH F113",
     "Title": "PROBABILITY AND STATISTICS",
     "LorT": "T",
     "Section": "5",
@@ -3687,9 +3687,9 @@
     ],
     "Room": "LT4"
   },
-  "MAU F213": {
+  "MATH F213": {
     "ID": "21123",
-    "Code": "MAU F213",
+    "Code": "MATH F213",
     "Title": "DISCREET MAUEMATICS",
     "LorT": "L",
     "Section": "1",
@@ -3705,9 +3705,9 @@
     ],
     "Room": "A605"
   },
-  "MAU F231": {
+  "MATH F231": {
     "ID": "21340",
-    "Code": "MAU F231",
+    "Code": "MATH F231",
     "Title": "NUMBER UEORY",
     "LorT": "L",
     "Section": "1",
@@ -3727,9 +3727,9 @@
     ],
     "Room": "A605"
   },
-  "MAU F241": {
+  "MATH F241": {
     "ID": "21465",
-    "Code": "MAU F241",
+    "Code": "MATH F241",
     "Title": "MAUEMATICAL MEUODS",
     "LorT": "T",
     "Section": "1",
@@ -3741,9 +3741,9 @@
     ],
     "Room": "A603"
   },
-  "MAU F242": {
+  "MATH F242": {
     "ID": "21466",
-    "Code": "MAU F242",
+    "Code": "MATH F242",
     "Title": "OPERATIONS RESEARCH",
     "LorT": "T",
     "Section": "1",
@@ -3755,9 +3755,9 @@
     ],
     "Room": "A602"
   },
-  "MAU F243": {
+  "MATH F243": {
     "ID": "21467",
-    "Code": "MAU F243",
+    "Code": "MATH F243",
     "Title": "GRAPHS AND NETWORKS",
     "LorT": "T",
     "Section": "1",
@@ -3769,9 +3769,9 @@
     ],
     "Room": "A602"
   },
-  "MAU F244": {
+  "MATH F244": {
     "ID": "21468",
-    "Code": "MAU F244",
+    "Code": "MATH F244",
     "Title": "MEASURE & INTEGRATION",
     "LorT": "T",
     "Section": "1",
@@ -3783,18 +3783,18 @@
     ],
     "Room": "A604"
   },
-  "MAU F266": {
+  "MATH F266": {
     "ID": "21662",
-    "Code": "MAU F266",
+    "Code": "MATH F266",
     "Title": "STUDY PROJECT",
     "LorT": "R",
     "Section": "1",
     "Times": [],
     "Room": ""
   },
-  "MAU F313": {
+  "MATH F313": {
     "ID": "21471",
-    "Code": "MAU F313",
+    "Code": "MATH F313",
     "Title": "NUMERICAL ANALYSIS",
     "LorT": "L",
     "Section": "1",
@@ -3810,9 +3810,9 @@
     ],
     "Room": "A602"
   },
-  "MAU F341": {
+  "MATH F341": {
     "ID": "21472",
-    "Code": "MAU F341",
+    "Code": "MATH F341",
     "Title": "INTRO TO FUNCTIONAL ANAL",
     "LorT": "T",
     "Section": "1",
@@ -3824,9 +3824,9 @@
     ],
     "Room": "A604"
   },
-  "MAU F342": {
+  "MATH F342": {
     "ID": "21473",
-    "Code": "MAU F342",
+    "Code": "MATH F342",
     "Title": "DIFFERENTIAL GEOMETRY",
     "LorT": "T",
     "Section": "1",
@@ -3838,9 +3838,9 @@
     ],
     "Room": "A603"
   },
-  "MAU F343": {
+  "MATH F343": {
     "ID": "21474",
-    "Code": "MAU F343",
+    "Code": "MATH F343",
     "Title": "PARTIAL DIFF EQUATIONS",
     "LorT": "T",
     "Section": "1",
@@ -3852,9 +3852,9 @@
     ],
     "Room": "A603"
   },
-  "MAU F353": {
+  "MATH F353": {
     "ID": "21479",
-    "Code": "MAU F353",
+    "Code": "MATH F353",
     "Title": "STATISTICAL INFER & APP",
     "LorT": "L",
     "Section": "1",
@@ -3874,45 +3874,45 @@
     ],
     "Room": "A604"
   },
-  "MAU F366": {
+  "MATH F366": {
     "ID": "21679",
-    "Code": "MAU F366",
+    "Code": "MATH F366",
     "Title": "LABORATORY PROJECT",
     "LorT": "R",
     "Section": "1",
     "Times": [],
     "Room": ""
   },
-  "MAU F367": {
+  "MATH F367": {
     "ID": "21747",
-    "Code": "MAU F367",
+    "Code": "MATH F367",
     "Title": "LABORATORY PROJECT",
     "LorT": "R",
     "Section": "1",
     "Times": [],
     "Room": ""
   },
-  "MAU F376": {
+  "MATH F376": {
     "ID": "21696",
-    "Code": "MAU F376",
+    "Code": "MATH F376",
     "Title": "DESIGN PROJECT",
     "LorT": "R",
     "Section": "1",
     "Times": [],
     "Room": ""
   },
-  "MAU F377": {
+  "MATH F377": {
     "ID": "21763",
-    "Code": "MAU F377",
+    "Code": "MATH F377",
     "Title": "DESIGN PROJECT",
     "LorT": "R",
     "Section": "1",
     "Times": [],
     "Room": ""
   },
-  "MAU F420": {
+  "MATH F420": {
     "ID": "21882",
-    "Code": "MAU F420",
+    "Code": "MATH F420",
     "Title": "MAUEMATICAL MODELING",
     "LorT": "L",
     "Section": "1",
@@ -3930,9 +3930,9 @@
     ],
     "Room": "A604"
   },
-  "MAU F424": {
+  "MATH F424": {
     "ID": "22191",
-    "Code": "MAU F424",
+    "Code": "MATH F424",
     "Title": "APPLIED STOCHASTIC PROCESS",
     "LorT": "L",
     "Section": "1",
@@ -3948,9 +3948,9 @@
     ],
     "Room": "A603"
   },
-  "MAU F432": {
+  "MATH F432": {
     "ID": "22273",
-    "Code": "MAU F432",
+    "Code": "MATH F432",
     "Title": "APPLIED STATISTICAL MEUODS",
     "LorT": "L",
     "Section": "1",
@@ -3970,9 +3970,9 @@
     ],
     "Room": "A604"
   },
-  "MAU F471": {
+  "MATH F471": {
     "ID": "21476",
-    "Code": "MAU F471",
+    "Code": "MATH F471",
     "Title": "NONLINEAR OPTIMIZATION",
     "LorT": "L",
     "Section": "1",
@@ -3992,9 +3992,9 @@
     ],
     "Room": "A604"
   },
-  "MAU F491": {
+  "MATH F491": {
     "ID": "21721",
-    "Code": "MAU F491",
+    "Code": "MATH F491",
     "Title": "SPECIAL PROJECT",
     "LorT": "R",
     "Section": "1",
